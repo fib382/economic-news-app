@@ -1,20 +1,9 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T21:29:34.230176+09:00",
-  "headline": "イラン・中東情勢、FRBが市場の主な焦点",
-  "executive_summary": "重要度Aのテーマは3件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
+  "generated_at": "2026-05-24T22:52:11.594095+09:00",
+  "headline": "FRB、要人発言が市場の主な焦点",
+  "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
-    {
-      "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、EU chiefs doubt German proposal to ease Iran sanctions over Hormuz / Inside Iran 3 - Stage Proposal to End the US - Iran War and Reopen the Strait of Hormuz / France says sanctions relief for Iran impossible while Hormuz remains closed が主な確認材料です。",
-      "importance": "A",
-      "source_item_ids": [
-        "37324187956ffd3f4b48c08e8223940cdaf0bd1d3946d5edad5ab5e0219fcbbc",
-        "2ad91d0b4c1484ea1d4169368c201dbe2e67917b93ead8125f562ea3b6eb0d02",
-        "1fb113ba808048f86f18bec5277eaac918782c22f0dd7d0876a5e5af1d746aa3",
-        "7661dcdddac805a924f6b18362f1d2a092ceb1a94cb96c94e5b2a8efc2f2f2c5"
-      ]
-    },
     {
       "title": "FRB",
       "summary": "FRBでは、Powell, Semiannual Monetary Policy Report to the Congress / Federal Reserve issues FOMC statement / Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances が主な確認材料です。",
@@ -38,18 +27,9 @@
         "1b620b7fa8cd13e4252f2cc13ed8b7d5b1ce02d16c3056a7c4cfd855efa8fc09",
         "c82ce65ffd2eb91151044d6b10838843903bd5780001cc3d46a42184fe325d4d"
       ]
-    },
-    {
-      "title": "その他",
-      "summary": "その他では、  Если пожелает Аллах : Иран клянется не разрабатывать ядерное оружие が主な確認材料です。",
-      "importance": "C",
-      "source_item_ids": [
-        "fa379d02ed254cacb72216ead26ef2abff2fc8e30344d5e29dcf8dc79b943cc9"
-      ]
     }
   ],
   "watch_points": [
-    "中東情勢とホルムズ海峡関連ニュース",
     "米10年債利回りの変化",
     "原油価格の反応",
     "FRB高官発言",
