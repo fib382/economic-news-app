@@ -15,6 +15,7 @@ from collector.config import FRED_SERIES, get_settings
 from collector.models import MarketSnapshotDocument, MarketSnapshotItem, NewsItemsDocument, SourceStatus, SourcesDocument
 from collector.processing.dedupe import dedupe_news
 from collector.processing.report import build_daily_report
+from collector.processing.summarize import translate_and_analyze_news_with_gemini
 from collector.sources.frb import fetch_frb
 from collector.sources.fred import fetch_fred
 from collector.sources.gdelt import fetch_gdelt
@@ -57,6 +58,7 @@ def main() -> int:
         sources.append(_source_status("FRED", "市場データ", "API", "error", 0, now, str(exc), "https://fred.stlouisfed.org/docs/api/fred/"))
 
     news_items = sorted(dedupe_news(news_items), key=lambda item: item.published_at, reverse=True)
+    news_items = translate_and_analyze_news_with_gemini(news_items, settings.gemini_api_key)
     market_items = sorted(_with_market_placeholders(market_items), key=lambda item: item.symbol)
 
     settings.data_dir.mkdir(parents=True, exist_ok=True)

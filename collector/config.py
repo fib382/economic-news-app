@@ -59,6 +59,7 @@ FRED_SERIES = {
 class Settings:
     data_dir: Path
     fred_api_key: str | None
+    gemini_api_key: str | None
     request_timeout: int
     gdelt_max_records: int
 
@@ -68,6 +69,7 @@ def get_settings() -> Settings:
     return Settings(
         data_dir=data_dir,
         fred_api_key=os.getenv("FRED_API_KEY") or None,
+        gemini_api_key=os.getenv("GEMINI_API_KEY") or None,
         request_timeout=int(os.getenv("COLLECTOR_TIMEOUT_SECONDS", "20")),
         gdelt_max_records=int(os.getenv("GDELT_MAX_RECORDS", "50")),
     )
