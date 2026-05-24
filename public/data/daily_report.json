@@ -1,27 +1,39 @@
 {
-  "date": "2026-05-24",
-  "generated_at": "2026-05-24T23:19:47.660634+09:00",
-  "headline": "FRB、要人発言が市場の主な焦点",
-  "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T07:54:18.794946+09:00",
+  "headline": "イラン・中東情勢、FRBが市場の主な焦点",
+  "executive_summary": "重要度Aのテーマは3件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
+      "title": "イラン・中東情勢",
+      "summary": "イラン・中東情勢では、Iran informs about Natanz nuclear site attack , no increase in radiation levels : UN atomic watchdog IAEA / Nuclear disarmament , Hormuz opening : Inside Trump 15 - point ceasefire plan to end Iran war / US – Israel – Iran War Day 52 : Strait of Hormuz explodes into chaos as US seizes Iranian cargo ship ; Tehran cries  piracy , Pakistan peace push hangs by a thread が主な確認材料です。",
+      "importance": "A",
+      "source_item_ids": [
+        "b0db0ff62a3f016bd7636de95d08243f79b84068ff206be3e22db850f5b3c76b",
+        "463876df1493a7c732368293d0be708156b4cf7051d115482231909a5abbf2de",
+        "b1fb8a2bbe747093aef7e0b0cb9286671b0258af54f69552ec87130bd67fa418",
+        "3d5ae47c3c1b40b3a3af3dbb718efcb5363c0fb44326c230796deb4134069bad",
+        "e1c69b9e4f93c0b2326df4fdef42851d87b3e69ae00d5969c097cb11de0be7ab"
+      ]
+    },
+    {
       "title": "FRB",
-      "summary": "FRBでは、Powell, Semiannual Monetary Policy Report to the Congress / 米連邦準備制度理事会、FOMC声明を発表 / FOMC議事要旨（2026年4月28-29日開催分） が主な確認材料です。",
+      "summary": "FRBでは、Powell, Semiannual Monetary Policy Report to the Congress / Federal Reserve issues FOMC statement / Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
         "62b218e0f75a9c43e639cc04f7068eb60145ddcc28f6187b67a601a1f0a38937",
         "6329f1309b8ccf9c55e8e7c516ca9021423f7c20de4dedcb0561bf3c68e54790",
-        "da5c7094e23d83f83e20ca451451188e998fd349cf4600d621221fcc0ba1f962",
-        "ae6f413372b27be06bc0e419eced4ae28346bc40c9d2261ddcec37798af0695c",
+        "0d4a5c4f4f82dc72711aa491b2827f047ddb08c54d9f992e633515e40b96b298",
+        "b1ecc99f1c2f9b02cd7aa92bba77af813434540a684f690618effa43a130aa23",
         "33ee5a3a543db4202cdeea9a4158770b6589452f40405cab11963338af40be5e"
       ]
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、ウォーラーFRB理事、政策リスクの変化について講演 / Barr, Brief Remarks on Stablecoins / Bowman, Supporting Small Businesses が主な確認材料です。",
+      "summary": "要人発言では、Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending / Barr, Brief Remarks on Stablecoins / Bowman, Supporting Small Businesses が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "169855754e02d78778be8ec4be85a0f06e4505b56dba62c638949f5508ac8e66",
+        "597c24c12073d65ba91087755aa92cb95c94e4815163fb5554923282fead7cf7",
         "e671a7a63b8421152488020102b3e5ff5343e38ddcdc61996ff42cf306519fbc",
         "bb4bfd52f47165d026e73c54d29b8b1790bcc2b05839b712651650e5c2402684",
         "1b620b7fa8cd13e4252f2cc13ed8b7d5b1ce02d16c3056a7c4cfd855efa8fc09",
@@ -30,6 +42,7 @@
     }
   ],
   "watch_points": [
+    "中東情勢とホルムズ海峡関連ニュース",
     "米10年債利回りの変化",
     "原油価格の反応",
     "FRB高官発言",
