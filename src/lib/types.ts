@@ -80,11 +80,23 @@ export interface SourceInfo {
   method: string;
   priority: Importance;
   url: string;
-  status: "active" | "optional" | "planned" | "skipped";
+  status: "active" | "optional" | "planned" | "skipped" | "error";
+  item_count?: number;
+  last_fetched_at?: string;
   notes?: string;
 }
 
 export interface SourcesPayload {
   generated_at: string;
   items: SourceInfo[];
+}
+
+export interface CollectorLogEntry {
+  source: string;
+  message: string;
+}
+
+export interface CollectorLogPayload {
+  generated_at: string;
+  errors: CollectorLogEntry[];
 }

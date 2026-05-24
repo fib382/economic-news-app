@@ -64,6 +64,7 @@ def main() -> int:
     _write_json(settings.data_dir / "market_snapshot.json", MarketSnapshotDocument(generated_at=now, items=market_items))
     _write_json(settings.data_dir / "daily_report.json", build_daily_report(news_items, market_items, now))
     _write_json(settings.data_dir / "sources.json", SourcesDocument(generated_at=now, items=sources))
+    _write_logs(settings.data_dir / "collector_log.json", now, errors)
     _write_logs(settings.data_dir.parents[1] / "logs" / "latest.json", now, errors)
     return 0
 

@@ -55,11 +55,15 @@ APIキーはブラウザ側へ埋め込まず、GitHub ActionsのSecretsで扱�
 
 ## GitHub Pages
 
-`deploy.yml` は `main` ブランチへのpushまたは手動実行で `npm run build` を行い、`dist` をGitHub Pagesへデプロイします。
+`deploy.yml` は `main` ブランチへのpushまたは手動実行で `npm run build` を行い、`dist` をGitHub Pagesへデプロイします。Repository settingsのPagesでSourceをGitHub Actionsに設定してください。
+
+Private repositoryでGitHub Pagesを使う場合、GitHub Pagesがprivate repositoryに対応するGitHubプランである必要があります。対応していない場合はworkflow自体は実行できますが、Pagesの公開で失敗または利用不可になります。
 
 ## データ更新
 
-`collect.yml` はUTC 22:00、04:00、10:00に実行します。これはJST 07:00、13:00、19:00相当です。手動実行も可能です。
+`collect.yml` はUTC 22:00、04:00、10:00に実行します。これはJST 07:00、13:00、19:00相当です。Actionsタブから手動実行も可能です。
+
+collectorは `public/data/*.json` と `logs/latest.json` の生成差分だけをbot名義でcommitします。APIキーやローカルの `.env` はcommitせず、必要な値はGitHub Secretsに登録してください。collectorのcommitが `main` にpushされると、通常のpushと同じく `deploy.yml` が動き、最新データを含む静的サイトを再デプロイします。
 
 ## 免責
 

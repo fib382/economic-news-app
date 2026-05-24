@@ -1,19 +1,18 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T20:21:24.493892+09:00",
+  "generated_at": "2026-05-24T21:29:34.230176+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは3件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Iran says US not complying with nuclear non - proliferation treaty / Trump Rejects Iran Proposal as Strait of Hormuz Crisis Pushes Oil Prices Higher / Trump Signals Tough Stance on Iran Uranium Stockpile as Nuclear Talks Show Limited Progress が主な確認材料です。",
+      "summary": "イラン・中東情勢では、EU chiefs doubt German proposal to ease Iran sanctions over Hormuz / Inside Iran 3 - Stage Proposal to End the US - Iran War and Reopen the Strait of Hormuz / France says sanctions relief for Iran impossible while Hormuz remains closed が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "9809dabade4064bf9127288bd9e113eefc6b26e415164acf0bd6f39dd5f6b120",
-        "66ae63fc5f103f987c32ff2854d85c54c507d6c4d5b193d71239e2eeaeb0d3ca",
-        "f1eb5e45fb91c0f191464c5663818c4487c4a4abe6bfbfebc16268fa3b8e51ad",
-        "2cf67aa2b0792b7145a85b8987a0926e4eae064a6bd0b68a62d554e8ac0beb90",
-        "56f16658cde0126228a58b1d32a1dec165fe1efd8f8ef71049452dc24ee87de2"
+        "37324187956ffd3f4b48c08e8223940cdaf0bd1d3946d5edad5ab5e0219fcbbc",
+        "2ad91d0b4c1484ea1d4169368c201dbe2e67917b93ead8125f562ea3b6eb0d02",
+        "1fb113ba808048f86f18bec5277eaac918782c22f0dd7d0876a5e5af1d746aa3",
+        "7661dcdddac805a924f6b18362f1d2a092ceb1a94cb96c94e5b2a8efc2f2f2c5"
       ]
     },
     {
@@ -38,6 +37,14 @@
         "bb4bfd52f47165d026e73c54d29b8b1790bcc2b05839b712651650e5c2402684",
         "1b620b7fa8cd13e4252f2cc13ed8b7d5b1ce02d16c3056a7c4cfd855efa8fc09",
         "c82ce65ffd2eb91151044d6b10838843903bd5780001cc3d46a42184fe325d4d"
+      ]
+    },
+    {
+      "title": "その他",
+      "summary": "その他では、  Если пожелает Аллах : Иран клянется не разрабатывать ядерное оружие が主な確認材料です。",
+      "importance": "C",
+      "source_item_ids": [
+        "fa379d02ed254cacb72216ead26ef2abff2fc8e30344d5e29dcf8dc79b943cc9"
       ]
     }
   ],

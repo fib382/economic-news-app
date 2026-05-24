@@ -1,4 +1,4 @@
-import { Database, FileText, LayoutDashboard, ListFilter, Settings } from "lucide-react";
+import { AlertTriangle, Database, FileText, LayoutDashboard, ListFilter, Settings } from "lucide-react";
 import type { ReactNode } from "react";
 import { useEffect, useMemo, useState } from "react";
 import { Dashboard } from "./components/Dashboard";
@@ -6,13 +6,14 @@ import { DailyReport } from "./components/DailyReport";
 import { MarketSnapshot } from "./components/MarketSnapshot";
 import { NewsList } from "./components/NewsList";
 import { formatDateTime } from "./lib/format";
-import type { DailyReportPayload, MarketSnapshotPayload, NewsItemsPayload, SourcesPayload } from "./lib/types";
+import type { CollectorLogPayload, DailyReportPayload, MarketSnapshotPayload, NewsItemsPayload, SourcesPayload } from "./lib/types";
 
 interface DataState {
   news: NewsItemsPayload | null;
   markets: MarketSnapshotPayload | null;
   report: DailyReportPayload | null;
   sources: SourcesPayload | null;
+  log: CollectorLogPayload | null;
   error: string | null;
   loading: boolean;
 }
@@ -37,6 +38,7 @@ export default function App() {
     markets: null,
     report: null,
     sources: null,
+    log: null,
     error: null,
     loading: true
   });
@@ -46,10 +48,11 @@ export default function App() {
       loadJson<NewsItemsPayload>("data/news_items.json"),
       loadJson<MarketSnapshotPayload>("data/market_snapshot.json"),
       loadJson<DailyReportPayload>("data/daily_report.json"),
-      loadJson<SourcesPayload>("data/sources.json")
+      loadJson<SourcesPayload>("data/sources.json"),
+      loadJson<CollectorLogPayload>("data/collector_log.json").catch(() => ({ generated_at: "", errors: [] }))
     ])
-      .then(([news, markets, report, sources]) => {
-        setState({ news, markets, report, sources, error: null, loading: false });
+      .then(([news, markets, report, sources, log]) => {
+        setState({ news, markets, report, sources, log, error: null, loading: false });
       })
       .catch((error: unknown) => {
         setState((current) => ({
@@ -68,12 +71,13 @@ export default function App() {
     return <Shell><div className="rounded-lg border border-line bg-white p-6">データを読み込み中です。</div></Shell>;
   }
 
-  if (state.error || !state.news || !state.markets || !state.report || !state.sources) {
+  if (state.error || !state.news || !state.markets || !state.report || !state.sources || !state.log) {
     return <Shell><div className="rounded-lg border border-risk bg-red-50 p-6 text-risk">{state.error ?? "必要なJSONが不足しています。"}</div></Shell>;
   }
 
   return (
     <Shell generatedAt={generatedAt}>
+      {state.log.errors.length > 0 ? <CollectorWarning log={state.log} /> : null}
       <Dashboard news={state.news.items} markets={state.markets.items} report={state.report} generatedAt={generatedAt} />
       <NewsList items={state.news.items} />
       <MarketSnapshot items={state.markets.items} />
@@ -100,13 +104,32 @@ export default function App() {
                 <span className="text-slate-600">{source.category}</span>
                 <span className="text-slate-600">{source.method}</span>
                 <span className="text-slate-600">{source.priority}</span>
-                <span className="text-slate-600">{source.status}</span>
+                <span className={source.status === "error" ? "font-semibold text-risk" : "text-slate-600"}>{source.status}</span>
               </a>
             ))}
           </div>
         </div>
       </section>
     </Shell>
+  );
+}
+
+function CollectorWarning({ log }: { log: CollectorLogPayload }) {
+  return (
+    <section className="rounded-lg border border-amberline bg-amber-50 p-4 text-amber-900">
+      <div className="flex items-start gap-3">
+        <AlertTriangle className="mt-0.5 h-5 w-5 flex-none" aria-hidden="true" />
+        <div>
+          <h2 className="text-sm font-bold">一部ソース取得失敗</h2>
+          <p className="mt-1 text-sm">生成日時: {formatDateTime(log.generated_at)}</p>
+          <ul className="mt-2 space-y-1 text-sm">
+            {log.errors.map((error) => (
+              <li key={`${error.source}-${error.message}`}>{error.source}: {error.message}</li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </section>
   );
 }
 
