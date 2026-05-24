@@ -35,7 +35,7 @@
 - output: accepted
 - usefulness score: 4/5
 - safety: pass, cloud=yes, no secrets sent
-- validation: in progress at log time; Codex will apply GitHub settings and verify workflows after publicizing
+- validation: passed; Codex publicized the repo, enabled Pages, set Actions default token permission to read, applied main force-push/deletion protection, enabled secret scanning/push protection/Dependabot security updates, and verified collect/deploy workflows plus public Pages rendering
 - retry/fallback: none
 - lesson: branch protection requiring PRs would conflict with direct scheduled collector commits to `main`
 - routing update needed: no
