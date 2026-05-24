@@ -59,6 +59,10 @@ APIキーはブラウザ側へ埋め込まず、GitHub ActionsのSecretsで扱�
 
 Private repositoryでGitHub Pagesを使う場合、GitHub Pagesがprivate repositoryに対応するGitHubプランである必要があります。対応していない場合はworkflow自体は実行できますが、Pagesの公開で失敗または利用不可になります。
 
+Public repositoryとして運用する場合、リポジトリのコード、commit履歴、`public/data/*.json`、`logs/latest.json` は誰でも閲覧できます。APIキーやローカル `.env` はcommitせず、GitHub Secretsだけに保存してください。
+
+`main` はforce pushとbranch deletionを禁止し、通常のデータ更新commitはGitHub Actions botが行う想定です。直接pushできるのはリポジトリのwrite権限を持つユーザーだけです。
+
 ## データ更新
 
 `collect.yml` はUTC 22:00、04:00、10:00に実行します。これはJST 07:00、13:00、19:00相当です。Actionsタブから手動実行も可能です。
