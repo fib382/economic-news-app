@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-05-24T20:21:24.493892+09:00",
+  "items": [
+    {
+      "symbol": "CPIAUCSL",
+      "name": "CPI",
+      "source": "FRED",
+      "value": null,
+      "unit": "index",
+      "date": null,
+      "change_1d": null,
+      "category": "経済指標"
+    },
+    {
+      "symbol": "DCOILWTICO",
+      "name": "WTI原油",
+      "source": "FRED",
+      "value": null,
+      "unit": "USD/bbl",
+      "date": null,
+      "change_1d": null,
+      "category": "原油・エネルギー"
+    },
+    {
+      "symbol": "DEXJPUS",
+      "name": "USD/JPY",
+      "source": "FRED",
+      "value": null,
+      "unit": "JPY",
+      "date": null,
+      "change_1d": null,
+      "category": "為替"
+    },
+    {
+      "symbol": "DGS10",
+      "name": "米10年債利回り",
+      "source": "FRED",
+      "value": null,
+      "unit": "%",
+      "date": null,
+      "change_1d": null,
+      "category": "債券"
+    },
+    {
+      "symbol": "DGS2",
+      "name": "米2年債利回り",
+      "source": "FRED",
+      "value": null,
+      "unit": "%",
+      "date": null,
+      "change_1d": null,
+      "category": "債券"
+    },
+    {
+      "symbol": "DGS30",
+      "name": "米30年債利回り",
+      "source": "FRED",
+      "value": null,
+      "unit": "%",
+      "date": null,
+      "change_1d": null,
+      "category": "債券"
+    },
+    {
+      "symbol": "FEDFUNDS",
+      "name": "FF金利",
+      "source": "FRED",
+      "value": null,
+      "unit": "%",
+      "date": null,
+      "change_1d": null,
+      "category": "FRB"
+    },
+    {
+      "symbol": "PAYEMS",
+      "name": "非農業部門雇用者数",
+      "source": "FRED",
+      "value": null,
+      "unit": "thousands",
+      "date": null,
+      "change_1d": null,
+      "category": "経済指標"
+    },
+    {
+      "symbol": "PCEPI",
+      "name": "PCE価格指数",
+      "source": "FRED",
+      "value": null,
+      "unit": "index",
+      "date": null,
+      "change_1d": null,
+      "category": "経済指標"
+    },
+    {
+      "symbol": "SP500",
+      "name": "S&P500",
+      "source": "FRED",
+      "value": null,
+      "unit": "index",
+      "date": null,
+      "change_1d": null,
+      "category": "株式"
+    },
+    {
+      "symbol": "UNRATE",
+      "name": "失業率",
+      "source": "FRED",
+      "value": null,
+      "unit": "%",
+      "date": null,
+      "change_1d": null,
+      "category": "経済指標"
+    },
+    {
+      "symbol": "VIXCLS",
+      "name": "VIX",
+      "source": "FRED",
+      "value": null,
+      "unit": "index",
+      "date": null,
+      "change_1d": null,
+      "category": "株式"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T20:21:24.493892+09:00",
+  "headline": "イラン・中東情勢、FRBが市場の主な焦点",
+  "executive_summary": "重要度Aのテーマは3件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
+  "sections": [
+    {
+      "title": "イラン・中東情勢",
+      "summary": "イラン・中東情勢では、Iran says US not complying with nuclear non - proliferation treaty / Trump Rejects Iran Proposal as Strait of Hormuz Crisis Pushes Oil Prices Higher / Trump Signals Tough Stance on Iran Uranium Stockpile as Nuclear Talks Show Limited Progress が主な確認材料です。",
+      "importance": "A",
+      "source_item_ids": [
+        "9809dabade4064bf9127288bd9e113eefc6b26e415164acf0bd6f39dd5f6b120",
+        "66ae63fc5f103f987c32ff2854d85c54c507d6c4d5b193d71239e2eeaeb0d3ca",
+        "f1eb5e45fb91c0f191464c5663818c4487c4a4abe6bfbfebc16268fa3b8e51ad",
+        "2cf67aa2b0792b7145a85b8987a0926e4eae064a6bd0b68a62d554e8ac0beb90",
+        "56f16658cde0126228a58b1d32a1dec165fe1efd8f8ef71049452dc24ee87de2"
+      ]
+    },
+    {
+      "title": "FRB",
+      "summary": "FRBでは、Powell, Semiannual Monetary Policy Report to the Congress / Federal Reserve issues FOMC statement / Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances が主な確認材料です。",
+      "importance": "A",
+      "source_item_ids": [
+        "62b218e0f75a9c43e639cc04f7068eb60145ddcc28f6187b67a601a1f0a38937",
+        "6329f1309b8ccf9c55e8e7c516ca9021423f7c20de4dedcb0561bf3c68e54790",
+        "0d4a5c4f4f82dc72711aa491b2827f047ddb08c54d9f992e633515e40b96b298",
+        "b1ecc99f1c2f9b02cd7aa92bba77af813434540a684f690618effa43a130aa23",
+        "33ee5a3a543db4202cdeea9a4158770b6589452f40405cab11963338af40be5e"
+      ]
+    },
+    {
+      "title": "要人発言",
+      "summary": "要人発言では、Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending / Barr, Brief Remarks on Stablecoins / Bowman, Supporting Small Businesses が主な確認材料です。",
+      "importance": "A",
+      "source_item_ids": [
+        "597c24c12073d65ba91087755aa92cb95c94e4815163fb5554923282fead7cf7",
+        "e671a7a63b8421152488020102b3e5ff5343e38ddcdc61996ff42cf306519fbc",
+        "bb4bfd52f47165d026e73c54d29b8b1790bcc2b05839b712651650e5c2402684",
+        "1b620b7fa8cd13e4252f2cc13ed8b7d5b1ce02d16c3056a7c4cfd855efa8fc09",
+        "c82ce65ffd2eb91151044d6b10838843903bd5780001cc3d46a42184fe325d4d"
+      ]
+    }
+  ],
+  "watch_points": [
+    "中東情勢とホルムズ海峡関連ニュース",
+    "米10年債利回りの変化",
+    "原油価格の反応",
+    "FRB高官発言",
+    "USD/JPYの変化"
+  ]
+}

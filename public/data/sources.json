@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-05-24T20:21:24.493892+09:00",
+  "items": [
+    {
+      "name": "GDELT",
+      "category": "イラン・中東情勢",
+      "method": "API",
+      "priority": "A",
+      "status": "active",
+      "item_count": 5,
+      "last_fetched_at": "2026-05-24T20:21:24.493892+09:00",
+      "notes": "ok",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc"
+    },
+    {
+      "name": "FRB",
+      "category": "FRB",
+      "method": "RSS",
+      "priority": "A",
+      "status": "active",
+      "item_count": 50,
+      "last_fetched_at": "2026-05-24T20:21:24.493892+09:00",
+      "notes": "ok",
+      "url": "https://www.federalreserve.gov/feeds/"
+    },
+    {
+      "name": "FRED",
+      "category": "市場データ",
+      "method": "API",
+      "priority": "A",
+      "status": "skipped",
+      "item_count": 0,
+      "last_fetched_at": "2026-05-24T20:21:24.493892+09:00",
+      "notes": "FRED_API_KEY is not set; skipped FRED market snapshot.",
+      "url": "https://fred.stlouisfed.org/docs/api/fred/"
+    }
+  ]
+}
