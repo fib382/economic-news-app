@@ -1,35 +1,59 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-25T17:13:46.651679+09:00",
-  "headline": "FRB、要人発言が市場の主な焦点",
-  "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
+  "generated_at": "2026-05-25T21:28:51.296183+09:00",
+  "headline": "イラン・中東情勢、FRBが市場の主な焦点",
+  "executive_summary": "重要度Aのテーマは3件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
+      "title": "イラン・中東情勢",
+      "summary": "イラン・中東情勢では、EU chiefs doubt German proposal to ease Iran sanctions over Hormuz / Iran says Hormuz opening deal rejected by Trump / Inside Iran 3 - Stage Proposal to End the US - Iran War and Reopen the Strait of Hormuz が主な確認材料です。",
+      "importance": "A",
+      "source_item_ids": [
+        "37324187956ffd3f4b48c08e8223940cdaf0bd1d3946d5edad5ab5e0219fcbbc",
+        "e02d23c12a46b188aa95c2616678a91556a5efb372628ed9449b5865ab20860e",
+        "2ad91d0b4c1484ea1d4169368c201dbe2e67917b93ead8125f562ea3b6eb0d02",
+        "1fb113ba808048f86f18bec5277eaac918782c22f0dd7d0876a5e5af1d746aa3",
+        "d21ad5389ba7726de683ee00169d572a254e81409ffcfa591a68ebfb34108080"
+      ]
+    },
+    {
       "title": "FRB",
-      "summary": "FRBでは、Powell, Semiannual Monetary Policy Report to the Congress / Federal Reserve issues FOMC statement / Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances が主な確認材料です。",
+      "summary": "FRBでは、Powell, Semiannual Monetary Policy Report to the Congress / Federal Reserve issues FOMC statement / ウォーラーFRB理事、連邦準備銀行の運営状況を更新 が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
         "62b218e0f75a9c43e639cc04f7068eb60145ddcc28f6187b67a601a1f0a38937",
         "6329f1309b8ccf9c55e8e7c516ca9021423f7c20de4dedcb0561bf3c68e54790",
-        "0d4a5c4f4f82dc72711aa491b2827f047ddb08c54d9f992e633515e40b96b298",
-        "b1ecc99f1c2f9b02cd7aa92bba77af813434540a684f690618effa43a130aa23",
+        "4319da153872b8d365d27c77dca1837e52548c3dcb7833d1d5bf66b78a34c597",
+        "da5c7094e23d83f83e20ca451451188e998fd349cf4600d621221fcc0ba1f962",
         "33ee5a3a543db4202cdeea9a4158770b6589452f40405cab11963338af40be5e"
       ]
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending / Barr, Brief Remarks on Stablecoins / Bowman, Supporting Small Businesses が主な確認材料です。",
+      "summary": "要人発言では、ウォーラーFRB理事「政策リスクは変化した」 / Barr, Brief Remarks on Stablecoins / Bowman, Supporting Small Businesses が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "597c24c12073d65ba91087755aa92cb95c94e4815163fb5554923282fead7cf7",
+        "169855754e02d78778be8ec4be85a0f06e4505b56dba62c638949f5508ac8e66",
         "e671a7a63b8421152488020102b3e5ff5343e38ddcdc61996ff42cf306519fbc",
         "bb4bfd52f47165d026e73c54d29b8b1790bcc2b05839b712651650e5c2402684",
         "1b620b7fa8cd13e4252f2cc13ed8b7d5b1ce02d16c3056a7c4cfd855efa8fc09",
         "c82ce65ffd2eb91151044d6b10838843903bd5780001cc3d46a42184fe325d4d"
       ]
+    },
+    {
+      "title": "その他",
+      "summary": "その他では、Merz :  İran yaptırımlarını kademeli olarak hafifletmeye hazırız   / Иран предлагает США открыть Ормузский пролив до решения ядерной программы – Reuters | Новости Украины / Глава МИД Франции отверг идею снятия санкций с Ирана без открытия Ормуза が主な確認材料です。",
+      "importance": "C",
+      "source_item_ids": [
+        "8617427f9d7a3809ff2dd4d54a61bbb00358df78588bf7672d3c85afa7bb8a5e",
+        "f883097bfd4817b59197fade478ee12b6fdb7874a501a5ce02c582982adfcb60",
+        "a03e33ba4b217212c16d751d8d5c841f6d21ab928e8b296a3ce5131c1728afd9",
+        "ae1ab410eef02b8290bf5ffb797461bf71f0f71c75879804e9dd1872e1e9f93f"
+      ]
     }
   ],
   "watch_points": [
+    "中東情勢とホルムズ海峡関連ニュース",
     "米10年債利回りの変化",
     "原油価格の反応",
     "FRB高官発言",

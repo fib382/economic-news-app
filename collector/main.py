@@ -12,7 +12,7 @@ if __package__ in {None, ""}:
 from pydantic import BaseModel
 
 from collector.config import FRED_SERIES, get_settings
-from collector.models import MarketSnapshotDocument, MarketSnapshotItem, NewsItemsDocument, SourceStatus, SourcesDocument
+from collector.models import MarketSnapshotDocument, MarketSnapshotItem, NewsItem, NewsItemsDocument, SourceStatus, SourcesDocument
 from collector.processing.dedupe import dedupe_news
 from collector.processing.report import build_daily_report
 from collector.processing.summarize import translate_and_analyze_news_with_gemini
@@ -57,7 +57,25 @@ def main() -> int:
         errors.append({"source": "FRED", "message": str(exc)})
         sources.append(_source_status("FRED", "市場データ", "API", "error", 0, now, str(exc), "https://fred.stlouisfed.org/docs/api/fred/"))
 
-    news_items = sorted(dedupe_news(news_items), key=lambda item: item.published_at, reverse=True)
+    # Load existing news items to keep historical data (prevent data loss during API limits)
+    existing_items: list[NewsItem] = []
+    news_items_path = settings.data_dir / "news_items.json"
+    if news_items_path.exists():
+        try:
+            with open(news_items_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                for item_dict in data.get("items", []):
+                    try:
+                        existing_items.append(NewsItem.model_validate(item_dict))
+                    except Exception:
+                        pass
+        except Exception as exc:
+            print(f"Warning: Failed to load existing news items: {exc}")
+
+    # Combine newly fetched items with existing ones
+    news_items.extend(existing_items)
+
+    news_items = sorted(dedupe_news(news_items), key=lambda item: item.published_at, reverse=True)[:100]
     news_items = translate_and_analyze_news_with_gemini(news_items, settings.gemini_api_key)
     market_items = sorted(_with_market_placeholders(market_items), key=lambda item: item.symbol)
 

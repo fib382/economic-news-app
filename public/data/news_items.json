@@ -1,488 +1,842 @@
 {
-  "generated_at": "2026-05-25T17:13:46.651679+09:00",
+  "generated_at": "2026-05-25T21:28:51.296183+09:00",
   "items": [
+    {
+      "id": "5653faca52ffeb9aee5bdedb127beb7f930e567b5818d184ca9afd8611d997e3",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "ホルムズ海峡、制裁、核：米イラン和平交渉が停滞する理由",
+      "summary": "米国とイランの和平交渉が、ホルムズ海峡、制裁、核開発問題を巡り停滞している現状を10のポイントで解説。両国間の緊張緩和の見通しは立っていない。",
+      "url": "https://www.hindustantimes.com/world-news/strait-of-hormuz-sanctions-nukes-why-the-us-iran-peace-deal-remains-stuck-trump-marco-rubio-tehran-ceasefire-sanctions-101779682913959.html",
+      "published_at": "2026-05-25T06:45:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "B",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "限定的。地政学リスクの高まりはリスク回避の円買いを誘う可能性。",
+        "bonds": "安全資産としての米国債需要を喚起する可能性はあるが、影響は軽微。",
+        "stocks": "中東情勢悪化への懸念から株価には下押し圧力となる可能性もあるが、現時点での影響は限定的。",
+        "commodities": "ホルムズ海峡の緊張激化は原油価格に上昇圧力をかける可能性がある。"
+      },
+      "tags": [
+        "イラン",
+        "米国",
+        "ホルムズ海峡",
+        "核問題",
+        "制裁",
+        "地政学リスク"
+      ]
+    },
+    {
+      "id": "98730e201e02cdb1fdcbf861c36fec4875749472c07a03e7d93cb5a5f1e82448",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "イラン大使館、ルービオ氏発言に反論「米国は世界エネルギー市場を人質に」",
+      "summary": "インドのイラン大使館は、マルコ・ルービオ米上院議員のホルムズ海峡に関する発言に対し、米国が世界のエネルギー市場を人質に取ろうとしていると強く反論。米イラン間の緊張が高まっている。",
+      "url": "https://www.freepressjournal.in/india/us-wants-to-hold-global-energy-market-hostage-iran-hits-back-at-marco-rubios-strait-of-hormuz-remarks",
+      "published_at": "2026-05-24T08:15:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "B",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "地政学リスクの高まりで、リスク回避の円買い需要が一時的に強まる可能性。",
+        "bonds": "安全資産とされる米国債への資金流入が見られる可能性はあるが、影響は軽微。",
+        "stocks": "中東情勢悪化への懸念から、株式市場に売り圧力が発生する可能性。",
+        "commodities": "ホルムズ海峡を巡る緊張感から、原油価格に上昇圧力がかかる可能性がある。"
+      },
+      "tags": [
+        "イラン",
+        "米国",
+        "ホルムズ海峡",
+        "エネルギー市場",
+        "地政学リスク",
+        "要人発言"
+      ]
+    },
+    {
+      "id": "d03ce04137190298fb0146a9b2353251c0312c44113210efc6c844ce6a2e933e",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "米イラン、本日60日間の停戦合意発表か：合意条件を詳報",
+      "summary": "米国とイランの間で60日間の停戦が本日発表される可能性があり、その合意条件が報じられている。この動きは両国関係の緊張緩和に向けた大きな一歩となるかもしれない。",
+      "url": "https://www.hurriyet.com.tr/dunya/live-iran-ile-abd-arasinda-60-gunluk-ateskes-bugun-duyurulabilir-iste-anlasma-sartlari-43182755",
+      "published_at": "2026-05-24T07:00:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "A",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "地政学リスク後退の期待から、リスクオンのドル買い・円売りを誘う可能性がある。",
+        "bonds": "安全資産からの資金流出により、米国債利回りは上昇する可能性。",
+        "stocks": "中東情勢の安定化期待は、投資家心理を改善し株式市場にはプラスに作用するだろう。",
+        "commodities": "原油供給への懸念が和らぐことで、原油価格には下落圧力がかかる可能性。"
+      },
+      "tags": [
+        "イラン",
+        "米国",
+        "停戦合意",
+        "地政学リスク",
+        "関係改善"
+      ]
+    },
+    {
+      "id": "30797be563b484afc83648d8b1cf4d0114740d2c888897a06fd2746b3e408134",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "米イラン停戦合意案：ホルムズから核交渉まで60日間で期待されること",
+      "summary": "米イラン間の60日間停戦提案について、ホルムズ海峡問題や核交渉への影響を含め、今後期待される展開が議論されている。この動きが中東情勢の安定化に繋がるか注目される。",
+      "url": "https://timesofindia.indiatimes.com/world/us/from-hormuz-to-nuclear-talks-what-to-expect-in-the-60-day-us-iran-ceasefire-proposal/articleshow/131288866.cms",
+      "published_at": "2026-05-24T05:45:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "A",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "地政学リスクの緩和期待から、リスクオンのドル買い・円売りが進む可能性がある。",
+        "bonds": "安全資産からの資金流出により、米国債利回りは上昇傾向となるだろう。",
+        "stocks": "中東情勢の改善は投資家心理を好転させ、株式市場にプラスの影響を与える。",
+        "commodities": "原油供給の安定化期待から、原油価格は下落する可能性がある。"
+      },
+      "tags": [
+        "イラン",
+        "米国",
+        "停戦合意",
+        "核交渉",
+        "ホルムズ海峡",
+        "地政学リスク"
+      ]
+    },
+    {
+      "id": "fa379d02ed254cacb72216ead26ef2abff2fc8e30344d5e29dcf8dc79b943cc9",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "イラン、核兵器開発を否定「アッラーの御心ならば」",
+      "summary": "イランは核兵器を開発しないと誓約し、その意図がないことを改めて表明した。この発言は、核交渉を巡る国際社会の懸念を和らげることを目的としていると見られる。",
+      "url": "https://www.9tv.co.il/item/226540",
+      "published_at": "2026-05-23T22:45:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "B",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "核問題の緊張緩和期待から、限定的ながらもリスクオンのドル買い・円売りを誘う可能性。",
+        "bonds": "安全資産としての債券需要がやや後退する可能性も、影響は軽微。",
+        "stocks": "地政学リスクの一部が軽減されるとの見方から、株式市場にポジティブな影響を与える可能性。",
+        "commodities": "イラン核問題の緩和期待は、原油市場に限定的な下落圧力を与えるかもしれない。"
+      },
+      "tags": [
+        "イラン",
+        "核兵器",
+        "核開発",
+        "地政学リスク",
+        "国際関係"
+      ]
+    },
     {
       "id": "ae6f413372b27be06bc0e419eced4ae28346bc40c9d2261ddcec37798af0695c",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
-      "summary": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+      "title": "ケビン・ワーシュ氏がFRB理事会およびFOMC議長に就任",
+      "summary": "ケビン・ワーシュ氏が米連邦準備制度理事会（FRB）の理事および議長に就任し、連邦公開市場委員会（FOMC）も同氏を満場一致で議長に選出した。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
       "published_at": "2026-05-22T20:15:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "B",
+      "importance": "C",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "変化なし",
+        "bonds": "変化なし",
+        "stocks": "変化なし",
+        "commodities": "変化なし"
       },
       "tags": [
-        "Federal Reserve"
+        "FRB",
+        "FOMC",
+        "人事",
+        "米国金融政策"
       ]
     },
     {
       "id": "a51fea92e7acc34eb4327b6b9d0f251ae9edcabfec69a5f69c16553a2fbf19ce",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
-      "summary": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
+      "title": "各機関が一部の国内外銀行に対する破綻処理計画のフィードバック書簡を公表",
+      "summary": "米国の当局が一部の国内外の銀行組織に対し、破綻処理計画（リビングウィル）に関するフィードバック書簡を公表した。これは金融システムの安定化に向けた監督活動の一環である。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
       "published_at": "2026-05-22T20:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
       "importance": "C",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "変化なし",
+        "bonds": "変化なし",
+        "stocks": "変化なし",
+        "commodities": "変化なし"
       },
-      "tags": []
+      "tags": [
+        "銀行規制",
+        "金融安定",
+        "FRB",
+        "破綻処理計画"
+      ]
+    },
+    {
+      "id": "7661dcdddac805a924f6b18362f1d2a092ceb1a94cb96c94e5b2a8efc2f2f2c5",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "イラン外務省「米国からの譲歩は求めず、制裁解除を要求」",
+      "summary": "イラン外務省は、米国からのいかなる譲歩も求めておらず、制裁解除を要求していると発表した。これは米イラン関係における強硬な姿勢を示しており、緊張緩和が容易ではないことを示唆する。",
+      "url": "https://aa.com.tr/en/middle-east/iran-not-seeking-any-concessions-from-us-calls-for-sanctions-relief-foreign-ministry/3945901",
+      "published_at": "2026-05-22T16:30:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "B",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "安全資産への資金流入の可能性",
+        "bonds": "安全資産としての需要増、利回り低下圧力",
+        "stocks": "地政学リスクの高まりから売り圧力",
+        "commodities": "原油供給懸念から原油価格上昇圧力"
+      },
+      "tags": [
+        "イラン",
+        "米国",
+        "制裁",
+        "地政学リスク",
+        "原油"
+      ]
     },
     {
       "id": "169855754e02d78778be8ec4be85a0f06e4505b56dba62c638949f5508ac8e66",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Waller, Policy Risks Have Changed",
-      "summary": "Speech At The Centre for Central Banking Guest Lecture, Frankfurt, Germany",
+      "title": "ウォーラーFRB理事「政策リスクは変化した」",
+      "summary": "ウォーラー連邦準備制度理事（FRB）がドイツでの講演で「政策リスクは変化した」と発言した。これはFRBの金融政策スタンスや経済見通しに関する新たな示唆を与える可能性がある。",
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm",
       "published_at": "2026-05-22T14:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "要人発言",
-      "importance": "B",
+      "importance": "A",
       "confidence": "high",
       "market_impact": {
-        "fx": "為替市場への影響は内容次第",
-        "bonds": "債券市場への影響は内容次第",
-        "stocks": "株式市場への影響は内容次第",
-        "commodities": "商品市場への影響は内容次第"
+        "fx": "発言内容次第でドル相場に影響",
+        "bonds": "発言内容次第で債券利回りに影響",
+        "stocks": "発言内容次第で株式市場に影響",
+        "commodities": "発言内容次第で動向に影響"
       },
       "tags": [
-        "Speech"
+        "FRB",
+        "要人発言",
+        "金融政策",
+        "ウォーラー",
+        "米国経済"
       ]
     },
     {
       "id": "fcf281ea6dd0214e3b4f9a8c61e6f0213487e52850297956a17e95939498df1f",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
-      "summary": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
+      "title": "FRBがコマース銀行の元従業員に対し執行措置を発令",
+      "summary": "連邦準備制度理事会（FRB）がコマース銀行の元従業員に対する執行措置を発表した。これは特定の個人に対する規制当局の措置であり、広範な市場への影響は小さいとみられる。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
       "published_at": "2026-05-21T15:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "B",
+      "importance": "C",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "変化なし",
+        "bonds": "変化なし",
+        "stocks": "変化なし",
+        "commodities": "変化なし"
       },
       "tags": [
-        "Federal Reserve"
+        "FRB",
+        "銀行規制",
+        "執行措置",
+        "コンプライアンス"
       ]
     },
     {
       "id": "54f7cc166f6c8df505e0699a6bfa9e33f9568e909cf70fffce641974a28da946",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
-      "summary": "Federal Reserve Board requests public comment on a proposal to establish a &quot;payment account,&quot; which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+      "title": "FRBが決済清算用「決済口座」設立案について意見公募",
+      "summary": "米連邦準備制度理事会（FRB）は、適格金融機関が決済清算目的で利用できる「決済口座」の設立案について、一般からの意見公募を開始した。これは決済システムの効率化と安全性の向上を目指すもの。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
       "published_at": "2026-05-20T20:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
       "importance": "B",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "中立。直接的な影響は小さい。",
+        "bonds": "中立。間接的に金融システムの安定化に寄与する可能性。",
+        "stocks": "中立。金融機関の決済効率化に長期的に寄与する可能性。",
+        "commodities": "中立。"
       },
       "tags": [
-        "Federal Reserve"
+        "FRB",
+        "決済システム",
+        "意見公募",
+        "金融機関",
+        "規制"
       ]
     },
     {
       "id": "da5c7094e23d83f83e20ca451451188e998fd349cf4600d621221fcc0ba1f962",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
-      "summary": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+      "title": "米連邦公開市場委員会（FOMC）議事要旨（2026年4月28-29日開催分）",
+      "summary": "2026年4月28-29日に開催された米連邦公開市場委員会（FOMC）の議事要旨が公表された。金融政策決定の背景にある議論やメンバーの見解が明らかになる。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
       "published_at": "2026-05-20T18:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "B",
+      "importance": "A",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "内容次第でドルに影響。タカ派的ならドル高、ハト派的ならドル安。",
+        "bonds": "内容次第で金利に影響。利上げ示唆なら債券売られ、利下げ示唆なら買われる。",
+        "stocks": "内容次第で株価に影響。金融引き締め懸念なら株安、緩和期待なら株高。",
+        "commodities": "内容次第でドルと逆相関の関係で動く可能性。"
       },
-      "tags": []
+      "tags": [
+        "FOMC",
+        "議事要旨",
+        "金融政策",
+        "FRB",
+        "インフレ"
+      ]
     },
     {
       "id": "fef26d59abc1b43b39e0b8d7a9f1c89e9caa0358e352f173a2d7ce8a672b1ee5",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Barr, Measuring Financial Health",
-      "summary": "Speech At EMERGE Financial Health 2026 Scaling Progress, Shaping the Future, Atlanta, Georgia",
+      "title": "FRBバー副議長、「金融の健全性」をテーマに講演",
+      "summary": "FRBのバー金融監督担当副議長が「EMERGE Financial Health 2026」で金融の健全性について講演した。金融システムにおける進捗と将来の展望が議論された。",
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20260520a.htm",
       "published_at": "2026-05-20T13:15:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "要人発言",
       "importance": "B",
       "confidence": "high",
       "market_impact": {
-        "fx": "為替市場への影響は内容次第",
-        "bonds": "債券市場への影響は内容次第",
-        "stocks": "株式市場への影響は内容次第",
-        "commodities": "商品市場への影響は内容次第"
+        "fx": "中立。直接的な影響は小さい。",
+        "bonds": "中立。金融システム安定化への言及があれば、長期的に安心感。",
+        "stocks": "中立。金融セクターの安定性にポジティブな示唆があれば支援材料。",
+        "commodities": "中立。"
       },
       "tags": [
-        "Speech"
+        "FRB",
+        "バー副議長",
+        "金融の健全性",
+        "講演",
+        "金融監督"
+      ]
+    },
+    {
+      "id": "4ca72d7efa6065dc0bb83e668b2c95b98f3518182c0640f3c9bf7ecb60421ed3",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "イラン、米国の新たな提案に回答",
+      "summary": "イランが米国からの新たな提案に対し回答したと報じられた。これは核合意再建に向けた交渉の進展を示唆する可能性があり、中東情勢の動向に注目が集まる。",
+      "url": "https://www.omanobserver.om/article/1189852/world/region/iran-responds-to-new-us-proposal",
+      "published_at": "2026-05-18T17:30:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "A",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "ドル/円、ユーロ/ドルなどに影響。リスクオンなら円安・ドル安、リスクオフなら円高・ドル高。",
+        "bonds": "リスクオフ時に米国債など安全資産への買いが見られる可能性。",
+        "stocks": "地政学リスクの緩和なら株高、緊張なら株安。",
+        "commodities": "原油価格に直接影響。核合意再建への進展があれば、イラン産原油供給増の期待から原油安。"
+      },
+      "tags": [
+        "イラン",
+        "米国",
+        "核合意",
+        "中東情勢",
+        "地政学リスク",
+        "原油"
       ]
     },
     {
       "id": "b1ecc99f1c2f9b02cd7aa92bba77af813434540a684f690618effa43a130aa23",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
-      "summary": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+      "title": "FRB、パウエル氏を議長代行に指名（後任就任まで）",
+      "summary": "米連邦準備制度理事会（FRB）はジェローム・パウエル氏を議長代行に指名した。パウエル氏はケビン・M・ウォーシュ氏が新議長として宣誓就任するまでその職を務める。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
       "published_at": "2026-05-15T21:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "A",
+      "importance": "B",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "中立。後任人事による不確実性は残るが、一時的な代行であり市場への直接影響は限定的。",
+        "bonds": "中立。",
+        "stocks": "中立。",
+        "commodities": "中立。"
       },
       "tags": [
-        "Federal Reserve",
-        "Powell"
+        "FRB",
+        "パウエル",
+        "議長代行",
+        "人事",
+        "ウォーシュ"
       ]
     },
     {
       "id": "ca00de5d64f88d1aaf182379ecde1371e33bf95facbe87c3a097876c83d5560f",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
-      "summary": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+      "title": "米FRB、スティーブン・M・カルク2025信託の申請を承認",
+      "summary": "米連邦準備理事会（FRB）は、スティーブン・M・カルク2025信託の申請を承認したと発表。これは一般的な行政手続きであり、市場への影響は小さい。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
       "published_at": "2026-05-15T20:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "B",
+      "importance": "C",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "ほぼなし",
+        "bonds": "ほぼなし",
+        "stocks": "ほぼなし",
+        "commodities": "ほぼなし"
       },
       "tags": [
-        "Federal Reserve"
+        "FRB",
+        "信託",
+        "承認",
+        "行政手続き"
       ]
     },
     {
       "id": "8739071bb2de57df28b55b0e4c9afe9499e2d1414f1acd213ce3fc970f644e92",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
-      "summary": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+      "title": "米FRB、ユナイテッド・テキサス銀行の監督機関変更を承認",
+      "summary": "米FRBは、ダラスのユナイテッド・テキサス銀行が連邦準備制度の監督下から通貨監督庁の監督下へ移行することに異議がないと発表。これも行政上の変更で市場影響は限定的。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
       "published_at": "2026-05-15T20:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "B",
+      "importance": "C",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "ほぼなし",
+        "bonds": "ほぼなし",
+        "stocks": "ほぼなし",
+        "commodities": "ほぼなし"
       },
       "tags": [
-        "Federal Reserve",
-        "Currency"
+        "FRB",
+        "銀行監督",
+        "監督機関変更",
+        "行政手続き"
       ]
     },
     {
       "id": "b14e74003f93e426d41e94e717049a1e86aec02d8bf75630181fb6d6cdcd9784",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
-      "summary": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+      "title": "米FRB、UBSおよびクレディ・スイスへの執行措置を終了",
+      "summary": "米FRBは、UBSグループAG、クレディ・スイスAGなどに対する執行措置を終了すると発表。これにより両行は通常の監督体制に戻るが、市場全体への影響は限定的とみられる。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
       "published_at": "2026-05-15T15:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
       "importance": "B",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "限定的",
+        "bonds": "限定的",
+        "stocks": "関連銀行にはポジティブだが、市場全体への影響は限定的。",
+        "commodities": "ほぼなし"
       },
       "tags": [
-        "Federal Reserve"
+        "FRB",
+        "UBS",
+        "クレディ・スイス",
+        "執行措置",
+        "銀行規制"
       ]
     },
     {
       "id": "979f5f05892eb172382565510ba09e830b894a75ef9763df82cd5c046acd1e4e",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Barr, Efficient and Effective Central Banking: Beyond the Balance Sheet",
-      "summary": "Speech At the Money Marketeers of New York University, New York, New York",
+      "title": "バーFRB副議長、効率的かつ効果的な中央銀行の役割について講演",
+      "summary": "バーFRB副議長は、「バランスシートを超えて」と題し、効率的で効果的な中央銀行の役割について講演した。金融政策の将来的な方向性や金融安定性に関する示唆に市場が注目するだろう。",
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20260514a.htm",
       "published_at": "2026-05-14T23:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
-      "category": "FRB",
+      "category": "要人発言",
       "importance": "B",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "発言内容によっては変動の可能性あり。",
+        "bonds": "発言内容によっては変動の可能性あり。",
+        "stocks": "発言内容によっては変動の可能性あり。",
+        "commodities": "ほぼなし"
       },
       "tags": [
-        "Balance Sheet",
-        "Speech"
+        "FRB",
+        "バーFRB副議長",
+        "金融政策",
+        "中央銀行",
+        "講演"
       ]
     },
     {
       "id": "4da825e1e225b5643f24aa64d9b376fec468e73d7f6701a4dc3e6448d1e48329",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
-      "summary": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+      "title": "スティーブン・I・ミランFRB理事、辞任を表明",
+      "summary": "スティーブン・I・ミランFRB理事が、後任者の就任時またはその直前に辞任すると発表。FRBの人事異動は通常、市場への直接的な影響は小さい。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
       "published_at": "2026-05-14T18:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "B",
+      "importance": "C",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "ほぼなし",
+        "bonds": "ほぼなし",
+        "stocks": "ほぼなし",
+        "commodities": "ほぼなし"
       },
       "tags": [
-        "Iran",
-        "Federal Reserve"
+        "FRB",
+        "理事",
+        "辞任",
+        "人事"
       ]
     },
     {
       "id": "f6f4fcb04c6f09b71ff265cce3f76da022d3df79b129b95047984ccb7cb05c63",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Bowman, Opening Remarks",
-      "summary": "Speech At the Federal Reserve Bank of Kansas City 2026 Future of Banking Conference: Powering Progress, Protecting Trust, Kansas City, Missouri (via pre-recorded video)",
+      "title": "ボウマンFRB理事、開会挨拶",
+      "summary": "ボウマンFRB理事は、カンザスシティ連銀主催の「2026年銀行の未来」会議で開会挨拶を行った。事前に録画されたビデオでの発表であり、市場への直接的な影響は限定的と見られる。",
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260514a.htm",
       "published_at": "2026-05-14T17:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
-      "category": "FRB",
+      "category": "要人発言",
       "importance": "B",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "発言内容によるが、金融政策の方向性に関する示唆があればドルに影響。",
+        "bonds": "金融政策スタンス示唆があれば金利に影響。",
+        "stocks": "金融政策見通しにより市場心理に影響。",
+        "commodities": "ドル動向や経済見通しに影響。"
       },
       "tags": [
-        "Federal Reserve",
-        "Remarks",
-        "Speech"
+        "FRB",
+        "ボウマン理事",
+        "銀行",
+        "金融政策",
+        "カンザスシティ連銀"
       ]
     },
     {
       "id": "0d4a5c4f4f82dc72711aa491b2827f047ddb08c54d9f992e633515e40b96b298",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
-      "summary": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
+      "title": "FRB、銀行幹部対象の割引窓口運用日と準備預金管理に関する調査結果を公表",
+      "summary": "FRBは、割引窓口の運用日数および準備預金管理戦略に関する銀行幹部への2つの調査結果を発表した。銀行システムの流動性管理に関する実態を明らかにするもの。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
       "published_at": "2026-05-14T14:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "A",
+      "importance": "C",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "限定的。銀行システムの安定性に関する懸念が生じれば影響の可能性。",
+        "bonds": "限定的。銀行の流動性管理状況への示唆があれば影響の可能性。",
+        "stocks": "限定的。銀行セクターに間接的な影響。",
+        "commodities": "限定的。"
       },
       "tags": [
-        "Federal Reserve",
-        "Dow"
+        "FRB",
+        "銀行",
+        "割引窓口",
+        "準備預金",
+        "金融システム"
       ]
     },
     {
       "id": "fdc1222dbddc0b9bba79b8be29f586d5587423a8248aa9c0e95a2341590c2120",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
-      "summary": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
+      "title": "FRB、2025年米国家計の経済的健全性に関する報告書を公表",
+      "summary": "FRBは「2025年米国家計の経済的健全性」に関する報告書を発表した。これは米国家計の財務状況や経済的見通しを評価するもので、消費動向を測る重要な指標となる。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
       "published_at": "2026-05-13T15:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
-      "category": "FRB",
+      "category": "米国経済",
       "importance": "B",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "家計状況が経済見通しに影響を与え、ドルに影響を与える可能性。",
+        "bonds": "経済の健全性評価は金利見通しに影響。",
+        "stocks": "消費動向や企業収益への示唆があれば市場に影響。",
+        "commodities": "経済活動の見通しにより影響。"
       },
       "tags": [
-        "Federal Reserve"
+        "FRB",
+        "米国経済",
+        "家計",
+        "消費",
+        "経済指標"
+      ]
+    },
+    {
+      "id": "d4262598843fb47510f27d0f90e372524989cd167c451dbec4a8b7257e3dbeec",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "イスラエル、トランプ氏のイランとの「悪い合意」締結を懸念",
+      "summary": "イスラエルは、次期米大統領がイランと核合意のような「悪い合意」を締結することに対し、深刻な懸念を表明している。中東地域の安全保障と国際関係に影響を与える可能性。",
+      "url": "https://news.liga.net/world/news/cnn-izrail-obespokoen-chto-tramp-zaklyuchit-plohuyu-sdelku-s-iranom",
+      "published_at": "2026-05-13T07:30:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "A",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "地政学リスクの高まりでリスクオフの円買い・ドル買い、または原油価格上昇による資源国通貨への影響。",
+        "bonds": "リスク回避的な動きで米国債が買われる可能性。",
+        "stocks": "中東情勢の悪化はリスク回避を招き、株価を下落させる可能性。",
+        "commodities": "イランの核開発や原油供給への影響懸念から、原油価格が上昇する可能性が高い。"
+      },
+      "tags": [
+        "イラン",
+        "イスラエル",
+        "トランプ",
+        "核合意",
+        "中東情勢"
       ]
     },
     {
       "id": "90e9a3063c5072a74e9c5a78b36837d92b2855a917b035d919299342e97ef06a",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board announces termination of enforcement actions with F & M Holding Company, Inc. and Thread Bancorp, Inc.",
-      "summary": "Federal Reserve Board announces termination of enforcement actions with F &amp; M Holding Company, Inc. and Thread Bancorp, Inc.",
+      "title": "FRB、F&Mホールディングカンパニーとスレッド・バンコープに対する執行措置の終了を発表",
+      "summary": "FRBは、F&Mホールディングカンパニーおよびスレッド・バンコープに対する執行措置の終了を発表した。これは個別の銀行に対する規制監督措置の完了を意味する。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
       "published_at": "2026-05-12T15:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
+      "importance": "C",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "限定的。",
+        "bonds": "限定的。",
+        "stocks": "対象企業の株価には影響するが、市場全体への影響は限定的。",
+        "commodities": "限定的。"
+      },
+      "tags": [
+        "FRB",
+        "銀行",
+        "規制",
+        "執行措置",
+        "金融機関"
+      ]
+    },
+    {
+      "id": "54a089c63241e2bf50273ceac320d2d2e2e8d3336c3d02a6f7aca42ca206fe59",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "トランプ氏が訪中、その間イランと米国の協議は停滞",
+      "summary": "米国とイランの協議が停滞する中、トランプ前大統領が中国へ向かいました。これは中東情勢の複雑化を示唆し、主要国間の外交バランスに影響を与える可能性があります。",
+      "url": "https://theshillongtimes.com/2026/05/12/trump-heads-to-china-as-iran-us-talks-stall/",
+      "published_at": "2026-05-12T03:00:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
       "importance": "B",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "ドルはやや売られやすい。人民元は注目。",
+        "bonds": "安全資産としての債券買いが意識される可能性。",
+        "stocks": "地政学リスクから売りが先行する可能性。",
+        "commodities": "原油価格は地政学リスクプレミアムから上昇の可能性。"
       },
       "tags": [
-        "Federal Reserve"
+        "イラン",
+        "米国",
+        "中国",
+        "外交",
+        "地政学リスク"
+      ]
+    },
+    {
+      "id": "81de58d3bcfe9c815b76b8f1d2ab9eb910bd1e12bb0409d6d69c4a601d4c361c",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "解説：米国提案へのイランの要求内容",
+      "summary": "米国の戦争終結提案に対し、イランがどのような要求をしているかを解説する記事です。イランの具体的な要求事項は今後の交渉の鍵となり、中東地域の安定に大きく影響します。",
+      "url": "https://aa.com.tr/en/world/explainer-what-iran-wants-in-response-to-us-proposal-to-end-war/3934250",
+      "published_at": "2026-05-11T19:15:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "ja",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "B",
+      "confidence": "high",
+      "market_impact": {
+        "fx": "ドル円は現状維持。リスク回避の動きに注意。",
+        "bonds": "安全資産買いにつながる可能性。",
+        "stocks": "中東情勢の不確実性が意識され、リスク回避の売りにつながる可能性。",
+        "commodities": "原油価格は地政学リスクにより上昇の可能性。"
+      },
+      "tags": [
+        "イラン",
+        "米国",
+        "交渉",
+        "中東情勢",
+        "外交"
       ]
     },
     {
       "id": "4319da153872b8d365d27c77dca1837e52548c3dcb7833d1d5bf66b78a34c597",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Waller, Update On Federal Reserve Bank Operations",
-      "summary": "Speech At the Hoover Institution Annual Monetary Policy Conference, Stanford, California",
+      "title": "ウォーラーFRB理事、連邦準備銀行の運営状況を更新",
+      "summary": "ウォーラーFRB理事がフーバー研究所での講演で連邦準備銀行の運営状況について語りました。金融政策の方向性を示唆する内容が含まれる可能性があり、市場の注目が集まります。",
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20260508a.htm",
       "published_at": "2026-05-08T23:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "B",
+      "importance": "A",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "金融政策に関する発言があれば、ドルが変動する可能性あり。",
+        "bonds": "金融引き締め観測が強まれば利回りは上昇。緩和観測なら低下。",
+        "stocks": "金利見通しにより、全体的に変動する可能性。",
+        "commodities": "金利見通しにより影響を受ける可能性あり。"
       },
       "tags": [
-        "Federal Reserve",
-        "Speech"
+        "FRB",
+        "ウォーラー理事",
+        "金融政策",
+        "講演",
+        "銀行運営"
       ]
     },
     {
       "id": "597c24c12073d65ba91087755aa92cb95c94e4815163fb5554923282fead7cf7",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending",
-      "summary": "Speech At the Hoover Institution Annual Monetary Policy Conference, Stanford, California",
+      "title": "ボウマンFRB理事、規制が市場を再形成する時：企業貸出の移行",
+      "summary": "ボウマンFRB理事がフーバー研究所で、規制が市場をどのように再形成し、企業貸出が移行しているかについて講演しました。金融規制のあり方や経済への影響に関する洞察が提供される可能性があります。",
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260508a.htm",
       "published_at": "2026-05-08T23:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "要人発言",
-      "importance": "A",
+      "importance": "B",
       "confidence": "high",
       "market_impact": {
-        "fx": "為替市場への影響は内容次第",
-        "bonds": "債券市場への影響は内容次第",
-        "stocks": "株式市場への影響は内容次第",
-        "commodities": "商品市場への影響は内容次第"
+        "fx": "ドルに限定的な影響。金融規制の方向性に注目。",
+        "bonds": "企業貸出市場への影響が間接的に長期金利に波及する可能性。",
+        "stocks": "銀行株や貸出市場に関連する企業の動向に影響が出る可能性。",
+        "commodities": "直接的な影響は限定的。"
       },
       "tags": [
-        "Speech"
+        "FRB",
+        "ボウマン理事",
+        "金融規制",
+        "企業貸出",
+        "講演"
       ]
     },
     {
       "id": "695394a411438b09b7dcee1a8d944f29087844b9c7c718a3d8815840a3630594",
       "source": "FRB",
       "source_type": "rss",
-      "title": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
-      "summary": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
+      "title": "FRB、コロンビア銀行MHCとコロンビア・フィナンシャル社の関連申請を承認",
+      "summary": "連邦準備制度理事会が、コロンビア銀行MHCとコロンビア・フィナンシャル社の関連申請を承認しました。これは通常の銀行規制業務の一部であり、個別の銀行の再編に関わるものです。",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
       "published_at": "2026-05-08T21:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
-      "language": "en",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
+      "language": "ja",
       "country": "US",
       "category": "FRB",
-      "importance": "B",
+      "importance": "C",
       "confidence": "high",
       "market_impact": {
-        "fx": "米金利見通しを通じてドル相場に影響する可能性",
-        "bonds": "政策金利見通しに応じて利回りが変動する可能性",
-        "stocks": "割引率と景気見通しを通じて株式に影響する可能性",
-        "commodities": "ドル変動を通じて商品価格に波及する可能性"
+        "fx": "影響はほぼなし。",
+        "bonds": "影響はほぼなし。",
+        "stocks": "承認された企業の株価に限定的な影響がある可能性。",
+        "commodities": "影響はほぼなし。"
       },
       "tags": [
-        "Federal Reserve"
+        "FRB",
+        "銀行規制",
+        "承認",
+        "コロンビア銀行",
+        "金融機関"
       ]
     },
     {
@@ -493,7 +847,7 @@
       "summary": "Speech At the Central Bank of West African States (BCEAO) Conference on Digital Assets, Dakar, Senegal",
       "url": "https://www.federalreserve.gov/newsevents/speech/cook20260508a.htm",
       "published_at": "2026-05-08T09:45:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -508,6 +862,125 @@
       "tags": [
         "Speech"
       ]
+    },
+    {
+      "id": "d21ad5389ba7726de683ee00169d572a254e81409ffcfa591a68ebfb34108080",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "What included in talks to end the Iran war and reopen Hormuz ? ",
+      "summary": "イラン・中東情勢に関する公開情報です。見出し: What included in talks to end the Iran war and reopen Hormuz ? ",
+      "url": "https://www.marketscreener.com/news/what-s-included-in-talks-to-end-the-iran-war-and-reopen-hormuz-ce7f58d3de80f423",
+      "published_at": "2026-05-07T13:30:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "English",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "A",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "リスク回避の円買いとドル買いが交錯する可能性",
+        "bonds": "米国債はリスク回避で買われる可能性",
+        "stocks": "株式にはリスクオフ圧力",
+        "commodities": "原油・金には上昇圧力"
+      },
+      "tags": [
+        "Iran",
+        "Hormuz"
+      ]
+    },
+    {
+      "id": "1fb113ba808048f86f18bec5277eaac918782c22f0dd7d0876a5e5af1d746aa3",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "France says sanctions relief for Iran impossible while Hormuz remains closed",
+      "summary": "イラン・中東情勢に関する公開情報です。見出し: France says sanctions relief for Iran impossible while Hormuz remains closed",
+      "url": "https://sana.sy/en/international/2315068/",
+      "published_at": "2026-05-07T12:15:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "English",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "A",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "リスク回避の円買いとドル買いが交錯する可能性",
+        "bonds": "米国債はリスク回避で買われる可能性",
+        "stocks": "株式にはリスクオフ圧力",
+        "commodities": "原油・金には上昇圧力"
+      },
+      "tags": [
+        "Iran",
+        "Hormuz",
+        "Sanctions"
+      ]
+    },
+    {
+      "id": "ef3823525b6b34c153824cfc1837d2e88308a7b8c7e6c76ec3a320accf561161",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "Ovo su američki zahtjevi za kraj rata . Čeka se iranski odgovor",
+      "summary": "イラン・中東情勢に関する公開情報です。見出し: Ovo su američki zahtjevi za kraj rata . Čeka se iranski odgovor",
+      "url": "https://www.24sata.hr/news/ovo-su-americki-zahtjevi-za-kraj-rata-ceka-se-iranski-odgovor-1126209",
+      "published_at": "2026-05-07T12:15:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "Croatian",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "C",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "リスク回避の円買いとドル買いが交錯する可能性",
+        "bonds": "米国債はリスク回避で買われる可能性",
+        "stocks": "株式にはリスクオフ圧力",
+        "commodities": "原油・金には上昇圧力"
+      },
+      "tags": [
+        "Iran"
+      ]
+    },
+    {
+      "id": "ae1ab410eef02b8290bf5ffb797461bf71f0f71c75879804e9dd1872e1e9f93f",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "Washington - Tahran hattında kritik saatler ! Dünya , İran  ın cevabına kilitlendi : Anlaşma yakın",
+      "summary": "その他に関する公開情報です。見出し: Washington - Tahran hattında kritik saatler ! Dünya , İran  ın cevabına kilitlendi : Anlaşma yakın",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/washington-tahran-hattinda-kritik-saatler-dunya-iranin-cevabina-kilitlendi-anlasma-ya-1788970",
+      "published_at": "2026-05-07T09:15:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "Turkish",
+      "country": "",
+      "category": "その他",
+      "importance": "C",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "為替市場への影響は内容次第",
+        "bonds": "債券市場への影響は内容次第",
+        "stocks": "株式市場への影響は内容次第",
+        "commodities": "商品市場への影響は内容次第"
+      },
+      "tags": []
+    },
+    {
+      "id": "a03e33ba4b217212c16d751d8d5c841f6d21ab928e8b296a3ce5131c1728afd9",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "Глава МИД Франции отверг идею снятия санкций с Ирана без открытия Ормуза",
+      "summary": "その他に関する公開情報です。見出し: Глава МИД Франции отверг идею снятия санкций с Ирана без открытия Ормуза",
+      "url": "https://ria.ru/20260507/glava-2091004963.html",
+      "published_at": "2026-05-07T08:00:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "Russian",
+      "country": "",
+      "category": "その他",
+      "importance": "C",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "為替市場への影響は内容次第",
+        "bonds": "債券市場への影響は内容次第",
+        "stocks": "株式市場への影響は内容次第",
+        "commodities": "商品市場への影響は内容次第"
+      },
+      "tags": []
     },
     {
       "id": "09d56150a51059781c5ca2ad14a654fa4230244da5fb8743907dd7b912907150",
@@ -517,7 +990,7 @@
       "summary": "Speech At the 2026 Women in Housing and Finance Symposium, Washington, D.C.",
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260505a.htm",
       "published_at": "2026-05-05T14:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -534,6 +1007,78 @@
       ]
     },
     {
+      "id": "2ad91d0b4c1484ea1d4169368c201dbe2e67917b93ead8125f562ea3b6eb0d02",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "Inside Iran 3 - Stage Proposal to End the US - Iran War and Reopen the Strait of Hormuz",
+      "summary": "イラン・中東情勢に関する公開情報です。見出し: Inside Iran 3 - Stage Proposal to End the US - Iran War and Reopen the Strait of Hormuz",
+      "url": "https://gulfnews.com/world/mena/us-iran-talks-inside-tehrans-3-stage-proposal-to-end-the-war-1.500527713",
+      "published_at": "2026-05-03T19:45:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "English",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "A",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "リスク回避の円買いとドル買いが交錯する可能性",
+        "bonds": "米国債はリスク回避で買われる可能性",
+        "stocks": "株式にはリスクオフ圧力",
+        "commodities": "原油・金には上昇圧力"
+      },
+      "tags": [
+        "Iran",
+        "Hormuz"
+      ]
+    },
+    {
+      "id": "e02d23c12a46b188aa95c2616678a91556a5efb372628ed9449b5865ab20860e",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "Iran says Hormuz opening deal rejected by Trump",
+      "summary": "イラン・中東情勢に関する公開情報です。見出し: Iran says Hormuz opening deal rejected by Trump",
+      "url": "https://theshillongtimes.com/2026/05/03/iran-says-hormuz-opening-deal-rejected-by-trump/",
+      "published_at": "2026-05-03T02:00:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "English",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "A",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "リスク回避の円買いとドル買いが交錯する可能性",
+        "bonds": "米国債はリスク回避で買われる可能性",
+        "stocks": "株式にはリスクオフ圧力",
+        "commodities": "原油・金には上昇圧力"
+      },
+      "tags": [
+        "Iran",
+        "Hormuz"
+      ]
+    },
+    {
+      "id": "f883097bfd4817b59197fade478ee12b6fdb7874a501a5ce02c582982adfcb60",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "Иран предлагает США открыть Ормузский пролив до решения ядерной программы – Reuters | Новости Украины",
+      "summary": "その他に関する公開情報です。見出し: Иран предлагает США открыть Ормузский пролив до решения ядерной программы – Reuters | Новости Украины",
+      "url": "https://news.liga.net/politics/news/reuters-iran-predlagal-otkryt-ormuz-no-podozhdat-s-obsuzhdeniem-yadernoi-programmy",
+      "published_at": "2026-05-02T18:30:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "Russian",
+      "country": "",
+      "category": "その他",
+      "importance": "C",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "為替市場への影響は内容次第",
+        "bonds": "債券市場への影響は内容次第",
+        "stocks": "株式市場への影響は内容次第",
+        "commodities": "商品市場への影響は内容次第"
+      },
+      "tags": []
+    },
+    {
       "id": "0e913712aa3d8843792f07ff223f37d2ae6979a1e0b84d7eb63418e258cdd3f0",
       "source": "FRB",
       "source_type": "rss",
@@ -541,7 +1086,7 @@
       "summary": "Speech At the Financial Stability Oversight Council Artificial Intelligence Series Roundtable on Cybersecurity and Risk Management, Washington, D.C.",
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260501a.htm",
       "published_at": "2026-05-01T18:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -565,7 +1110,7 @@
       "summary": "Agencies issue host state loan-to-deposit ratios",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
       "published_at": "2026-05-01T15:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "FRB",
@@ -587,7 +1132,7 @@
       "summary": "Federal Reserve issues FOMC statement",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
       "published_at": "2026-04-29T18:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "FRB",
@@ -613,7 +1158,7 @@
       "summary": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm",
       "published_at": "2026-04-24T20:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "FRB",
@@ -637,7 +1182,7 @@
       "summary": "Federal Reserve Board announces approval of application by Banco de Credito del Peru",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm",
       "published_at": "2026-04-24T20:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "FRB",
@@ -654,6 +1199,54 @@
       ]
     },
     {
+      "id": "37324187956ffd3f4b48c08e8223940cdaf0bd1d3946d5edad5ab5e0219fcbbc",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "EU chiefs doubt German proposal to ease Iran sanctions over Hormuz",
+      "summary": "イラン・中東情勢に関する公開情報です。見出し: EU chiefs doubt German proposal to ease Iran sanctions over Hormuz",
+      "url": "https://www.yahoo.com/news/articles/eu-chiefs-doubt-german-proposal-172318817.html",
+      "published_at": "2026-04-24T18:00:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "English",
+      "country": "",
+      "category": "イラン・中東情勢",
+      "importance": "A",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "リスク回避の円買いとドル買いが交錯する可能性",
+        "bonds": "米国債はリスク回避で買われる可能性",
+        "stocks": "株式にはリスクオフ圧力",
+        "commodities": "原油・金には上昇圧力"
+      },
+      "tags": [
+        "Iran",
+        "Hormuz",
+        "Sanctions"
+      ]
+    },
+    {
+      "id": "8617427f9d7a3809ff2dd4d54a61bbb00358df78588bf7672d3c85afa7bb8a5e",
+      "source": "GDELT",
+      "source_type": "news_api",
+      "title": "Merz :  İran yaptırımlarını kademeli olarak hafifletmeye hazırız  ",
+      "summary": "その他に関する公開情報です。見出し: Merz :  İran yaptırımlarını kademeli olarak hafifletmeye hazırız  ",
+      "url": "https://www.haberler.com/politika/merz-iran-yaptirimlarini-kademeli-olarak-19779672-haberi/",
+      "published_at": "2026-04-24T17:30:00Z",
+      "fetched_at": "2026-05-25T21:29:13.091408+09:00",
+      "language": "Turkish",
+      "country": "",
+      "category": "その他",
+      "importance": "C",
+      "confidence": "medium",
+      "market_impact": {
+        "fx": "為替市場への影響は内容次第",
+        "bonds": "債券市場への影響は内容次第",
+        "stocks": "株式市場への影響は内容次第",
+        "commodities": "商品市場への影響は内容次第"
+      },
+      "tags": []
+    },
+    {
       "id": "a7e980b46b505610fbab8c38468c7b217cc605cc133fc87c3dc8238e53ab74ba",
       "source": "FRB",
       "source_type": "rss",
@@ -661,7 +1254,7 @@
       "summary": "Agencies finalize changes to enhance community bank leverage ratio",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm",
       "published_at": "2026-04-23T19:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "FRB",
@@ -683,7 +1276,7 @@
       "summary": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm",
       "published_at": "2026-04-22T15:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "FRB",
@@ -707,7 +1300,7 @@
       "summary": "Speech At The Brookings Institution, Washington, D.C.",
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20260421a.htm",
       "published_at": "2026-04-21T18:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "FRB",
@@ -732,7 +1325,7 @@
       "summary": "Speech At the David Kaserman Memorial Lecture, Department of Economics, Auburn University, Auburn, Alabama",
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm",
       "published_at": "2026-04-17T18:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -756,7 +1349,7 @@
       "summary": "Speech At Strengthening America’s Economy through Rural Investment: A Working Forum, Washington, D.C.",
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20260414a.htm",
       "published_at": "2026-04-14T16:45:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -780,7 +1373,7 @@
       "summary": "Speech At the College of Business Administration, University of Detroit Mercy, Detroit, Michigan",
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm",
       "published_at": "2026-04-07T21:50:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -804,7 +1397,7 @@
       "summary": "Speech At CBA LIVE 26, Consumer Bankers Association, San Diego, California",
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260331a.htm",
       "published_at": "2026-03-31T21:10:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -828,7 +1421,7 @@
       "summary": "Speech At “The GENIUS Act in Practice: Key Questions for Stablecoin Regulation,” The Federalist Society, Washington, D.C.",
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20260331a.htm",
       "published_at": "2026-03-31T19:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -853,7 +1446,7 @@
       "summary": "Testimony Before the Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.",
       "url": "https://www.federalreserve.gov/newsevents/testimony/guynn20260326a.htm",
       "published_at": "2026-03-25T20:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -877,7 +1470,7 @@
       "summary": "Testimony Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.",
       "url": "https://www.federalreserve.gov/newsevents/testimony/bowman20260226a.htm",
       "published_at": "2026-02-25T23:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -901,7 +1494,7 @@
       "summary": "Testimony Before the Committee on Financial Services, U.S. House of Representatives",
       "url": "https://www.federalreserve.gov/newsevents/testimony/powell20250624a.htm",
       "published_at": "2025-06-24T12:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "FRB",
@@ -926,7 +1519,7 @@
       "summary": "Testimony Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate",
       "url": "https://www.federalreserve.gov/newsevents/testimony/bowman20250410a.htm",
       "published_at": "2025-04-09T21:38:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -950,7 +1543,7 @@
       "summary": "Testimony Before the Subcommittee on Digital Assets, Financial Technology and Inclusion, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.",
       "url": "https://www.federalreserve.gov/newsevents/testimony/gibson20231205a.htm",
       "published_at": "2023-12-04T17:35:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -974,7 +1567,7 @@
       "summary": "Testimony Before the Subcommittee on Financial Institutions and Monetary Policy, Committee on Financial Services, U.S. House of Representatives",
       "url": "https://www.federalreserve.gov/newsevents/testimony/gibson20230718a.htm",
       "published_at": "2023-07-17T20:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -998,7 +1591,7 @@
       "summary": "Testimony Before the Committee on Financial Services, U.S. House of Representatives",
       "url": "https://www.federalreserve.gov/newsevents/testimony/gibson20240321a.htm",
       "published_at": "1899-12-30T21:30:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
@@ -1022,7 +1615,7 @@
       "summary": "Testimony Before the Committee on Financial Services, U.S. House of Representatives, Washington, D.C.",
       "url": "https://www.federalreserve.gov/newsevents/testimony/barr20241120a.htm",
       "published_at": "1899-12-30T15:00:00Z",
-      "fetched_at": "2026-05-25T17:13:58.837801+09:00",
+      "fetched_at": "2026-05-25T21:29:13.096209+09:00",
       "language": "en",
       "country": "US",
       "category": "要人発言",
