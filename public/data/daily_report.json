@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-25T21:28:51.296183+09:00",
+  "generated_at": "2026-05-25T21:56:50.833648+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは3件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
@@ -18,22 +18,22 @@
     },
     {
       "title": "FRB",
-      "summary": "FRBでは、Powell, Semiannual Monetary Policy Report to the Congress / Federal Reserve issues FOMC statement / ウォーラーFRB理事、連邦準備銀行の運営状況を更新 が主な確認材料です。",
+      "summary": "FRBでは、Powell, Semiannual Monetary Policy Report to the Congress / Federal Reserve issues FOMC statement / Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
         "62b218e0f75a9c43e639cc04f7068eb60145ddcc28f6187b67a601a1f0a38937",
         "6329f1309b8ccf9c55e8e7c516ca9021423f7c20de4dedcb0561bf3c68e54790",
-        "4319da153872b8d365d27c77dca1837e52548c3dcb7833d1d5bf66b78a34c597",
-        "da5c7094e23d83f83e20ca451451188e998fd349cf4600d621221fcc0ba1f962",
+        "0d4a5c4f4f82dc72711aa491b2827f047ddb08c54d9f992e633515e40b96b298",
+        "b1ecc99f1c2f9b02cd7aa92bba77af813434540a684f690618effa43a130aa23",
         "33ee5a3a543db4202cdeea9a4158770b6589452f40405cab11963338af40be5e"
       ]
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、ウォーラーFRB理事「政策リスクは変化した」 / Barr, Brief Remarks on Stablecoins / Bowman, Supporting Small Businesses が主な確認材料です。",
+      "summary": "要人発言では、Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending / Barr, Brief Remarks on Stablecoins / Bowman, Supporting Small Businesses が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "169855754e02d78778be8ec4be85a0f06e4505b56dba62c638949f5508ac8e66",
+        "597c24c12073d65ba91087755aa92cb95c94e4815163fb5554923282fead7cf7",
         "e671a7a63b8421152488020102b3e5ff5343e38ddcdc61996ff42cf306519fbc",
         "bb4bfd52f47165d026e73c54d29b8b1790bcc2b05839b712651650e5c2402684",
         "1b620b7fa8cd13e4252f2cc13ed8b7d5b1ce02d16c3056a7c4cfd855efa8fc09",
