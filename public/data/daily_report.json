@@ -1,19 +1,19 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T08:13:39.808427+09:00",
+  "generated_at": "2026-05-28T16:50:44.120138+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは3件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、US – Israel – Iran War Day 52 : Strait of Hormuz explodes into chaos as US seizes Iranian cargo ship ; Tehran cries  piracy , Pakistan peace push hangs by a thread / Iranian nuclear sites turned to dust , claims Donald Trump as US - Iran talks hit limbo / As ceasefire ends tomorrow , a look back at key demands from US and Iran to end the war が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Iran war : What happening on day 54 as Trump extends ceasefire ? | US - Israel war on Iran News / EU chiefs doubt German proposal to ease Iran sanctions over Hormuz / Iran says US not complying with nuclear non - proliferation treaty が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "b1fb8a2bbe747093aef7e0b0cb9286671b0258af54f69552ec87130bd67fa418",
-        "3d5ae47c3c1b40b3a3af3dbb718efcb5363c0fb44326c230796deb4134069bad",
-        "e1c69b9e4f93c0b2326df4fdef42851d87b3e69ae00d5969c097cb11de0be7ab",
         "b5115e72313a674b934c0e0d846a84484f3536536ebeb8da058c3a146c480512",
-        "37324187956ffd3f4b48c08e8223940cdaf0bd1d3946d5edad5ab5e0219fcbbc"
+        "37324187956ffd3f4b48c08e8223940cdaf0bd1d3946d5edad5ab5e0219fcbbc",
+        "9809dabade4064bf9127288bd9e113eefc6b26e415164acf0bd6f39dd5f6b120",
+        "e02d23c12a46b188aa95c2616678a91556a5efb372628ed9449b5865ab20860e",
+        "2ad91d0b4c1484ea1d4169368c201dbe2e67917b93ead8125f562ea3b6eb0d02"
       ]
     },
     {
@@ -30,14 +30,14 @@
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending / Barr, Brief Remarks on Stablecoins / Bowman, Supporting Small Businesses が主な確認材料です。",
+      "summary": "要人発言では、Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending / Bowman, Artificial Intelligence in the Financial System / Bowman, A Coordinated Approach to Consumer Fraud Protection が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
         "597c24c12073d65ba91087755aa92cb95c94e4815163fb5554923282fead7cf7",
-        "e671a7a63b8421152488020102b3e5ff5343e38ddcdc61996ff42cf306519fbc",
-        "bb4bfd52f47165d026e73c54d29b8b1790bcc2b05839b712651650e5c2402684",
-        "1b620b7fa8cd13e4252f2cc13ed8b7d5b1ce02d16c3056a7c4cfd855efa8fc09",
-        "c82ce65ffd2eb91151044d6b10838843903bd5780001cc3d46a42184fe325d4d"
+        "0e913712aa3d8843792f07ff223f37d2ae6979a1e0b84d7eb63418e258cdd3f0",
+        "09d56150a51059781c5ca2ad14a654fa4230244da5fb8743907dd7b912907150",
+        "f94b6df746f732c05b0c79f53bf38f2666c66d705e247ada999ff1aa2a487eb5",
+        "fef26d59abc1b43b39e0b8d7a9f1c89e9caa0358e352f173a2d7ce8a672b1ee5"
       ]
     },
     {
@@ -49,7 +49,7 @@
         "f883097bfd4817b59197fade478ee12b6fdb7874a501a5ce02c582982adfcb60",
         "a03e33ba4b217212c16d751d8d5c841f6d21ab928e8b296a3ce5131c1728afd9",
         "ae1ab410eef02b8290bf5ffb797461bf71f0f71c75879804e9dd1872e1e9f93f",
-        "0e46738c386415407df75fbff167a505daa887a5c28f17293494ace11154e0be"
+        "fa379d02ed254cacb72216ead26ef2abff2fc8e30344d5e29dcf8dc79b943cc9"
       ]
     }
   ],
