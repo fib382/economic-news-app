@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-29T08:11:30.466960+09:00",
+  "generated_at": "2026-05-29T16:48:34.746056+09:00",
   "errors": [
     {
       "source": "GDELT",
-      "message": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=20)"
+      "message": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28Iran+OR+Israel+OR+Hormuz+OR+sanctions+OR+nuclear%29&mode=ArtList&format=json&maxrecords=20&sort=HybridRel"
     }
   ]
 }
