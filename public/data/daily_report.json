@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T16:39:43.554753+09:00",
+  "generated_at": "2026-05-31T20:28:56.440193+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは3件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
@@ -18,26 +18,26 @@
     },
     {
       "title": "FRB",
-      "summary": "FRBでは、Federal Reserve issues FOMC statement / Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances / Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair が主な確認材料です。",
+      "summary": "FRBでは、Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances / Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair / Minutes of the Board's discount rate meeting on April 20 and 29, 2026 が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "6329f1309b8ccf9c55e8e7c516ca9021423f7c20de4dedcb0561bf3c68e54790",
         "0d4a5c4f4f82dc72711aa491b2827f047ddb08c54d9f992e633515e40b96b298",
         "b1ecc99f1c2f9b02cd7aa92bba77af813434540a684f690618effa43a130aa23",
         "d8334d9492e91abfc03ce8493137efc21229215b8c0cc50e8d1f299cf74fc907",
-        "a81506ea21e33d081ac293f09fb164bad88c83406ea9e282df09822a4ab0f4a6"
+        "695394a411438b09b7dcee1a8d944f29087844b9c7c718a3d8815840a3630594",
+        "4319da153872b8d365d27c77dca1837e52548c3dcb7833d1d5bf66b78a34c597"
       ]
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending / Bowman, Artificial Intelligence in the Financial System / Bowman, A Coordinated Approach to Consumer Fraud Protection が主な確認材料です。",
+      "summary": "要人発言では、Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending / Bowman, A Coordinated Approach to Consumer Fraud Protection / Cook, Perspectives on Tokenization and Implications for the Financial System が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
         "597c24c12073d65ba91087755aa92cb95c94e4815163fb5554923282fead7cf7",
-        "0e913712aa3d8843792f07ff223f37d2ae6979a1e0b84d7eb63418e258cdd3f0",
         "09d56150a51059781c5ca2ad14a654fa4230244da5fb8743907dd7b912907150",
         "f94b6df746f732c05b0c79f53bf38f2666c66d705e247ada999ff1aa2a487eb5",
-        "fef26d59abc1b43b39e0b8d7a9f1c89e9caa0358e352f173a2d7ce8a672b1ee5"
+        "fef26d59abc1b43b39e0b8d7a9f1c89e9caa0358e352f173a2d7ce8a672b1ee5",
+        "169855754e02d78778be8ec4be85a0f06e4505b56dba62c638949f5508ac8e66"
       ]
     },
     {
