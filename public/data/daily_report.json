@@ -1,19 +1,19 @@
 {
-  "date": "2026-06-04",
-  "generated_at": "2026-06-04T21:38:56.702233+09:00",
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T08:06:15.692170+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
-  "executive_summary": "重要度Aのテーマは3件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
+  "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、France says sanctions relief for Iran impossible while Hormuz remains closed / What included in talks to end the Iran war and reopen Hormuz ?  / Oil Prices Rise Amid Strait of Hormuz Tensions and U . S .- Iran Ceasefire Uncertainty が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Iran Warns Countries Enforcing US Sanctions May Face Strait Of Hormuz Shipping Disruptions / Trump Rejects Iran Proposal as Strait of Hormuz Crisis Pushes Oil Prices Higher / Italy says no Hormuz mission underway despite naval movements が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "1fb113ba808048f86f18bec5277eaac918782c22f0dd7d0876a5e5af1d746aa3",
-        "d21ad5389ba7726de683ee00169d572a254e81409ffcfa591a68ebfb34108080",
-        "f53b955a4865f7d9bbd61686692fab7a8a6fe2e5899f541eaf5070ec1da59531",
         "bcc550646ec502914065055fb205a700c6245d2b72723e886e3153e24693527e",
-        "66ae63fc5f103f987c32ff2854d85c54c507d6c4d5b193d71239e2eeaeb0d3ca"
+        "66ae63fc5f103f987c32ff2854d85c54c507d6c4d5b193d71239e2eeaeb0d3ca",
+        "71d68b408d7a279d7e437b3065a9afc1155d8c9f3b804ff70873376879dc71d0",
+        "d4262598843fb47510f27d0f90e372524989cd167c451dbec4a8b7257e3dbeec",
+        "2436dfe3606f1ffd86a6a1f0106996a4504af7d465121f288c66334c2dc8bce8"
       ]
     },
     {
@@ -25,31 +25,39 @@
         "b1ecc99f1c2f9b02cd7aa92bba77af813434540a684f690618effa43a130aa23",
         "d8334d9492e91abfc03ce8493137efc21229215b8c0cc50e8d1f299cf74fc907",
         "b155992ae693dfe77e26892ffebbfad63562e818fbe4629d2dd8b397f75669b0",
-        "695394a411438b09b7dcee1a8d944f29087844b9c7c718a3d8815840a3630594"
+        "90e9a3063c5072a74e9c5a78b36837d92b2855a917b035d919299342e97ef06a"
+      ]
+    },
+    {
+      "title": "為替",
+      "summary": "為替では、SON DAKİKA I İran nükleer müzakereleri kabul etti : ABDden Tahrana karşı yeni adım ! İsrailin saldırıları en büyük engel ...  が主な確認材料です。",
+      "importance": "C",
+      "source_item_ids": [
+        "a9e5daab7e6ebb826f8add7b824a1445278ffb0bfc49b55acbf89d8e4b002f27"
       ]
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、Bowman, When Regulation Reshapes Markets: The Migration of Corporate Lending / Cook, Perspectives on Tokenization and Implications for the Financial System / Barr, Measuring Financial Health が主な確認材料です。",
-      "importance": "A",
+      "summary": "要人発言では、Barr, Measuring Financial Health / Waller, Policy Risks Have Changed / Cook, The Opportunities and Risks AI Presents for the Economy and Financial System が主な確認材料です。",
+      "importance": "B",
       "source_item_ids": [
-        "597c24c12073d65ba91087755aa92cb95c94e4815163fb5554923282fead7cf7",
-        "f94b6df746f732c05b0c79f53bf38f2666c66d705e247ada999ff1aa2a487eb5",
         "fef26d59abc1b43b39e0b8d7a9f1c89e9caa0358e352f173a2d7ce8a672b1ee5",
         "169855754e02d78778be8ec4be85a0f06e4505b56dba62c638949f5508ac8e66",
-        "d70cd48361591a3dd1387274be20d7e6d7bb54047eace9fb9d46584e8d5cf056"
+        "d70cd48361591a3dd1387274be20d7e6d7bb54047eace9fb9d46584e8d5cf056",
+        "b94257808aa8a4cb7dab5e09dd0194e9e5b068292888fad852a9195ed1cfcb26",
+        "d331a197edcd228b69409c92324fb1abb2802c78cce4f7fe09bf23414b095eff"
       ]
     },
     {
       "title": "その他",
-      "summary": "その他では、Washington - Tahran hattında kritik saatler ! Dünya , İran  ın cevabına kilitlendi : Anlaşma yakın /   Если пожелает Аллах : Иран клянется не разрабатывать ядерное оружие / İran ile ABD arasında 60 günlük ateşkes bugün duyurulabilir : İşte anlaşma şartları が主な確認材料です。",
+      "summary": "その他では、  Если пожелает Аллах : Иран клянется не разрабатывать ядерное оружие / İran ile ABD arasında 60 günlük ateşkes bugün duyurulabilir : İşte anlaşma şartları / Из США пришли тревожные для Израиля сигналы : вырисовывается опасный сценарий が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "ae1ab410eef02b8290bf5ffb797461bf71f0f71c75879804e9dd1872e1e9f93f",
         "fa379d02ed254cacb72216ead26ef2abff2fc8e30344d5e29dcf8dc79b943cc9",
         "d03ce04137190298fb0146a9b2353251c0312c44113210efc6c844ce6a2e933e",
         "fbb713a204a981addd2d4caad14afff93af2030b7e359d0ffeee93695c7de2b7",
-        "4cb830bdd5fc977c84dfb751bb49b239651adf92063b5cde5642e8c168fd6e18"
+        "4cb830bdd5fc977c84dfb751bb49b239651adf92063b5cde5642e8c168fd6e18",
+        "2b73a32c7a57c4b91997aa79d2266df616bfdc9438a9fd12c2df8bc34d1e5120"
       ]
     }
   ],
