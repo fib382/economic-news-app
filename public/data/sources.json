@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-06T15:48:39.793809+09:00",
+  "generated_at": "2026-06-06T20:18:27.334829+09:00",
   "items": [
     {
       "name": "GDELT",
       "category": "イラン・中東情勢",
       "method": "API",
       "priority": "A",
-      "status": "active",
-      "item_count": 50,
-      "last_fetched_at": "2026-06-06T15:48:39.793809+09:00",
-      "notes": "ok",
+      "status": "error",
+      "item_count": 0,
+      "last_fetched_at": "2026-06-06T20:18:27.334829+09:00",
+      "notes": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28Iran+OR+Israel+OR+Hormuz+OR+sanctions+OR+nuclear%29&mode=ArtList&format=json&maxrecords=20&sort=HybridRel",
       "url": "https://api.gdeltproject.org/api/v2/doc/doc"
     },
     {
@@ -19,7 +19,7 @@
       "priority": "A",
       "status": "active",
       "item_count": 50,
-      "last_fetched_at": "2026-06-06T15:48:39.793809+09:00",
+      "last_fetched_at": "2026-06-06T20:18:27.334829+09:00",
       "notes": "ok",
       "url": "https://www.federalreserve.gov/feeds/"
     },
@@ -30,7 +30,7 @@
       "priority": "A",
       "status": "skipped",
       "item_count": 0,
-      "last_fetched_at": "2026-06-06T15:48:39.793809+09:00",
+      "last_fetched_at": "2026-06-06T20:18:27.334829+09:00",
       "notes": "FRED_API_KEY is not set; skipped FRED market snapshot.",
       "url": "https://fred.stlouisfed.org/docs/api/fred/"
     }
