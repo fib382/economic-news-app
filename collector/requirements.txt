@@ -1,6 +1,6 @@
 feedparser>=6.0.11
 pandas>=2.2
-pydantic>=2.7
+pydantic>=2.13.4
 pytest>=8.2
 python-dateutil>=2.9
 requests>=2.32
