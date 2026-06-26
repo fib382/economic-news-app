@@ -1,19 +1,19 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T08:13:18.276863+09:00",
+  "generated_at": "2026-06-26T16:43:37.834417+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Trump considers military action after US rejects Iran nuclear proposal / Trump Signals Tough Stance on Iran Uranium Stockpile as Nuclear Talks Show Limited Progress / Iran not seeking  any concession from US , calls for sanctions relief : Foreign Ministry が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Trump Signals Tough Stance on Iran Uranium Stockpile as Nuclear Talks Show Limited Progress / Iran not seeking  any concession from US , calls for sanctions relief : Foreign Ministry / Qatari team arrives in Tehran to support US - Iran ceasefire talks : Reuters - Region - World が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "2187304f27f5eeb23a2c04763a904855e6cb56ce51ff07dc7abf713b1a97f0b6",
         "f1eb5e45fb91c0f191464c5663818c4487c4a4abe6bfbfebc16268fa3b8e51ad",
         "7661dcdddac805a924f6b18362f1d2a092ceb1a94cb96c94e5b2a8efc2f2f2c5",
         "81b3dda7f968a713831bd0356568dbed9925bf7454f5d3befcde5d2e7d539ee7",
-        "53ce291ba4cb23a4da54f8649c820f04b4439e6e1f78db82e4336c9af5955b1e"
+        "53ce291ba4cb23a4da54f8649c820f04b4439e6e1f78db82e4336c9af5955b1e",
+        "a797746e25a065ff7bc16e25a5a9aa70527c158f3c368e216844e52d24a0f1eb"
       ]
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、Barr, Measuring Financial Health / Waller, Policy Risks Have Changed / Cook, The Opportunities and Risks AI Presents for the Economy and Financial System が主な確認材料です。",
+      "summary": "要人発言では、Waller, Policy Risks Have Changed / Cook, The Opportunities and Risks AI Presents for the Economy and Financial System / Jefferson, Global Economic Developments and the U.S. Economy が主な確認材料です。",
       "importance": "B",
       "source_item_ids": [
-        "fef26d59abc1b43b39e0b8d7a9f1c89e9caa0358e352f173a2d7ce8a672b1ee5",
         "169855754e02d78778be8ec4be85a0f06e4505b56dba62c638949f5508ac8e66",
         "d70cd48361591a3dd1387274be20d7e6d7bb54047eace9fb9d46584e8d5cf056",
         "b94257808aa8a4cb7dab5e09dd0194e9e5b068292888fad852a9195ed1cfcb26",
-        "d331a197edcd228b69409c92324fb1abb2802c78cce4f7fe09bf23414b095eff"
+        "d331a197edcd228b69409c92324fb1abb2802c78cce4f7fe09bf23414b095eff",
+        "3d534e9dbac07533de9c26a45dfd12e7143c0437ec6734a2bf192be6943ef078"
       ]
     },
     {

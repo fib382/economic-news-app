@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T08:13:18.276863+09:00",
+  "generated_at": "2026-06-26T16:43:37.834417+09:00",
   "items": [
     {
       "name": "GDELT",
@@ -7,8 +7,8 @@
       "method": "API",
       "priority": "A",
       "status": "active",
-      "item_count": 20,
-      "last_fetched_at": "2026-06-26T08:13:18.276863+09:00",
+      "item_count": 50,
+      "last_fetched_at": "2026-06-26T16:43:37.834417+09:00",
       "notes": "ok",
       "url": "https://api.gdeltproject.org/api/v2/doc/doc"
     },
@@ -19,7 +19,7 @@
       "priority": "A",
       "status": "active",
       "item_count": 50,
-      "last_fetched_at": "2026-06-26T08:13:18.276863+09:00",
+      "last_fetched_at": "2026-06-26T16:43:37.834417+09:00",
       "notes": "ok",
       "url": "https://www.federalreserve.gov/feeds/"
     },
@@ -30,7 +30,7 @@
       "priority": "A",
       "status": "skipped",
       "item_count": 0,
-      "last_fetched_at": "2026-06-26T08:13:18.276863+09:00",
+      "last_fetched_at": "2026-06-26T16:43:37.834417+09:00",
       "notes": "FRED_API_KEY is not set; skipped FRED market snapshot.",
       "url": "https://fred.stlouisfed.org/docs/api/fred/"
     }
