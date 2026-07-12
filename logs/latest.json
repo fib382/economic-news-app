@@ -1,4 +1,9 @@
 {
-  "generated_at": "2026-07-12T07:41:46.998233+09:00",
-  "errors": []
+  "generated_at": "2026-07-12T15:26:54.475694+09:00",
+  "errors": [
+    {
+      "source": "GDELT",
+      "message": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=20)"
+    }
+  ]
 }
