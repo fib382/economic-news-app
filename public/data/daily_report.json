@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-14",
-  "generated_at": "2026-07-14T20:18:41.409651+09:00",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T07:53:46.704676+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、  US Wants To Hold Global Energy Market Hostage : Iran Embassy In India Hits Back At Marco Rubio Strait Of Hormuz Remarks / Trump , Netanyahu Agree Iran Deal Must End Nuclear Threat ; Tehran Signals Hormuz Traffic May Resume Within 30 Days / Strait of Hormuz , sanctions , nukes : Why the US - Iran peace deal is stuck | 10 points が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Trump , Netanyahu Agree Iran Deal Must End Nuclear Threat ; Tehran Signals Hormuz Traffic May Resume Within 30 Days / Strait of Hormuz , sanctions , nukes : Why the US - Iran peace deal is stuck | 10 points / Oil Falls , Asian Stocks Climb on Hopes of US - Iran Hormuz Deal が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "98730e201e02cdb1fdcbf861c36fec4875749472c07a03e7d93cb5a5f1e82448",
         "d968ab48d575f6a608ea3f1cf203612b720ed3583b8c3c749bbc418c909a02a7",
         "5653faca52ffeb9aee5bdedb127beb7f930e567b5818d184ca9afd8611d997e3",
         "11cb42934f71ab9ee4225d5d26e93ea54001e47c20189ed3e3783bac985c177d",
-        "f274a522721d2fa3294f708d0400717000be24e8a89ee6b555d98fc05b6cbca4"
+        "f274a522721d2fa3294f708d0400717000be24e8a89ee6b555d98fc05b6cbca4",
+        "0db7bf14a465d08df9d147fd3f4bf67e3a74e24b8862ef09a39e99d0d20c2972"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "b155992ae693dfe77e26892ffebbfad63562e818fbe4629d2dd8b397f75669b0",
         "fda2c59d8b9f0dc1755217442826f1b0357afe9af12ed2d7e8acb183ab56e6a9",
         "8c0706824574d9ef42b1b970cc9c526c7e27a6305fc48bb96ad9f006490660ec",
-        "c320a10e9b5d3b79da4614159a41556c6d23b307a4620983e2c6f8e7dbdd2533"
+        "0f005ad9902b41ace1d667238c3edbeb309d563ffe705105701863e54342ca70"
       ]
     },
     {
@@ -50,14 +50,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Из США пришли тревожные для Израиля сигналы : вырисовывается опасный сценарий / ABD - İran arasında 60 günlük anlaşma iddiası : Hürmüz ve nükleer faaliyetleri kapsıyor / İran - ABD Ateşkesinde Kritik Gün : 60 Günlük Anlaşma Duyurulabilir が主な確認材料です。",
+      "summary": "その他では、İran - ABD Ateşkesinde Kritik Gün : 60 Günlük Anlaşma Duyurulabilir / Названы пункты способной положить конец войне Трампа сделки / Veszélyben a közel - keleti tűzszünet , Irán megtorlással fenyeget が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "fbb713a204a981addd2d4caad14afff93af2030b7e359d0ffeee93695c7de2b7",
-        "4cb830bdd5fc977c84dfb751bb49b239651adf92063b5cde5642e8c168fd6e18",
         "2b73a32c7a57c4b91997aa79d2266df616bfdc9438a9fd12c2df8bc34d1e5120",
-        "7bccdd481ded503aead210c6a37605401d1fdbee1fe3872b5f0ea495ebf1b8a3",
-        "b8ec7ccebc9271826e3abdcb69d7af28e1e46c802f70fdcffdc4c4c1da19aeea"
+        "b8ec7ccebc9271826e3abdcb69d7af28e1e46c802f70fdcffdc4c4c1da19aeea",
+        "0e46738c386415407df75fbff167a505daa887a5c28f17293494ace11154e0be",
+        "0bedfdc3ef05810db3690ce7e7deeeab6b26bc9186687d29bae2bebb853bfd06",
+        "8ceded8aaa2d9993f0e21f4e233c397a3cdc23184bead0f7c5f88ed18edb247f"
       ]
     }
   ],
