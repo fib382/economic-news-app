@@ -1,9 +1,4 @@
 {
-  "generated_at": "2026-07-25T07:57:09.810273+09:00",
-  "errors": [
-    {
-      "source": "GDELT",
-      "message": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28Iran+OR+Israel+OR+Hormuz+OR+sanctions+OR+nuclear%29&mode=ArtList&format=json&maxrecords=20&sort=HybridRel"
-    }
-  ]
+  "generated_at": "2026-07-25T15:10:15.614040+09:00",
+  "errors": []
 }
