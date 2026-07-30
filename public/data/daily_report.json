@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-30",
-  "generated_at": "2026-07-30T20:45:45.029207+09:00",
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T08:00:25.485392+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
@@ -18,14 +18,14 @@
     },
     {
       "title": "FRB",
-      "summary": "FRBでは、Minutes of the Board's discount rate meeting on April 20 and 29, 2026 / Powell, Acceptance Remarks / Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting が主な確認材料です。",
+      "summary": "FRBでは、Powell, Acceptance Remarks / Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting / Minutes of the Board's discount rate meetings on June 8 and June 17, 2026 が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "d8334d9492e91abfc03ce8493137efc21229215b8c0cc50e8d1f299cf74fc907",
         "b155992ae693dfe77e26892ffebbfad63562e818fbe4629d2dd8b397f75669b0",
         "8c0706824574d9ef42b1b970cc9c526c7e27a6305fc48bb96ad9f006490660ec",
         "0f005ad9902b41ace1d667238c3edbeb309d563ffe705105701863e54342ca70",
-        "9f61ae0c251dc298154c59b7a50142af7081cea6e7f3c3623abbf62dd2fba13e"
+        "9f61ae0c251dc298154c59b7a50142af7081cea6e7f3c3623abbf62dd2fba13e",
+        "c320a10e9b5d3b79da4614159a41556c6d23b307a4620983e2c6f8e7dbdd2533"
       ]
     },
     {
@@ -50,14 +50,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Названы пункты способной положить конец войне Трампа сделки / Veszélyben a közel - keleti tűzszünet , Irán megtorlással fenyeget / Рубио : Иран согласился обсудить ядерную программу при условии открытия Ормузского пролива が主な確認材料です。",
+      "summary": "その他では、Veszélyben a közel - keleti tűzszünet , Irán megtorlással fenyeget / Рубио : Иран согласился обсудить ядерную программу при условии открытия Ормузского пролива / Рубио опроверг предложения Ирану о смягчении санкций за Ормузский пролив | MigNews - Новости Израиля и Мира на русском языке が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "b8ec7ccebc9271826e3abdcb69d7af28e1e46c802f70fdcffdc4c4c1da19aeea",
         "0e46738c386415407df75fbff167a505daa887a5c28f17293494ace11154e0be",
         "0bedfdc3ef05810db3690ce7e7deeeab6b26bc9186687d29bae2bebb853bfd06",
         "8ceded8aaa2d9993f0e21f4e233c397a3cdc23184bead0f7c5f88ed18edb247f",
-        "7c847cad82abdc881aa61c2d652654b31de747bcd11432d5a05ed56fa1049557"
+        "7c847cad82abdc881aa61c2d652654b31de747bcd11432d5a05ed56fa1049557",
+        "afc0e795801f59468899f89ae33708afdac01b188f3010f366c17eb8f3c5d1b9"
       ]
     }
   ],
