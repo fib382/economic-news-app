@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-31",
-  "generated_at": "2026-07-31T20:52:29.940464+09:00",
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T07:55:24.383881+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Iran threatens retaliation after US strikes / Trump says no one will control Strait of Hormuz , Israel Strikes Lebanon as Iran Accuses US of Violating Ceasefire / U . S . Sanctions Iran Strait of Hormuz Authority as Global Oil Markets Face Turmoil が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Trump says no one will control Strait of Hormuz , Israel Strikes Lebanon as Iran Accuses US of Violating Ceasefire / U . S . Sanctions Iran Strait of Hormuz Authority as Global Oil Markets Face Turmoil / Donald Trump shares draft Iran peace agreement with Israel and other allies が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "f274a522721d2fa3294f708d0400717000be24e8a89ee6b555d98fc05b6cbca4",
         "0db7bf14a465d08df9d147fd3f4bf67e3a74e24b8862ef09a39e99d0d20c2972",
         "3dd5d7794f8345191eb782922b79384231589c77a4bbe1b11624293a4272236f",
         "33b7582e4e4fbff3060cd3c9c0c55f9d8cba40583440c37907c6b50ff524e873",
-        "f35a4cf32db992326e7c23c599e1cf28bdcf8dc83bb182bf1be3365d58ff9da6"
+        "f35a4cf32db992326e7c23c599e1cf28bdcf8dc83bb182bf1be3365d58ff9da6",
+        "638b45e668ba03fb96b20edeb1282f98f4a6fbb3f2aecb58665fb195ea1464cb"
       ]
     },
     {
@@ -50,14 +50,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Veszélyben a közel - keleti tűzszünet , Irán megtorlással fenyeget / Рубио : Иран согласился обсудить ядерную программу при условии открытия Ормузского пролива / Рубио опроверг предложения Ирану о смягчении санкций за Ормузский пролив | MigNews - Новости Израиля и Мира на русском языке が主な確認材料です。",
+      "summary": "その他では、Рубио : Иран согласился обсудить ядерную программу при условии открытия Ормузского пролива / Рубио опроверг предложения Ирану о смягчении санкций за Ормузский пролив | MigNews - Новости Израиля и Мира на русском языке / 미 국무장관  이란 제재 완화는 해협 개방 아닌 핵 포기와 연계   が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "0e46738c386415407df75fbff167a505daa887a5c28f17293494ace11154e0be",
         "0bedfdc3ef05810db3690ce7e7deeeab6b26bc9186687d29bae2bebb853bfd06",
         "8ceded8aaa2d9993f0e21f4e233c397a3cdc23184bead0f7c5f88ed18edb247f",
         "7c847cad82abdc881aa61c2d652654b31de747bcd11432d5a05ed56fa1049557",
-        "afc0e795801f59468899f89ae33708afdac01b188f3010f366c17eb8f3c5d1b9"
+        "afc0e795801f59468899f89ae33708afdac01b188f3010f366c17eb8f3c5d1b9",
+        "478df0bd182628ebc309c170786c36d87e5433223269df98bc824f456659f637"
       ]
     }
   ],
