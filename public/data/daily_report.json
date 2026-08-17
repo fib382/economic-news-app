@@ -1,19 +1,19 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T07:15:02.344379+09:00",
+  "generated_at": "2026-08-17T13:33:02.225232+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、300 ships signed up for safe passage thru Strait of Hormuz : Iran / Outgoing Mossad Chief Calls for Israel to Pursue Regime Change in Iran / Rubio hopeful of Iran deal , insists on nuclear curbs が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Outgoing Mossad Chief Calls for Israel to Pursue Regime Change in Iran / Rubio hopeful of Iran deal , insists on nuclear curbs / Iran insists ceasefire must cover conflict in Lebanon が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "3c7ca82b835d600cf5bde78e9b3c8fe13fc1b74d38c1645d0ca48bffeea6f382",
         "a6c7805006535293d8331224783fc004193832dd27f3dd30a0fa39682d6ea8b2",
         "9271ca0d7738cabec17613ecd067c461f90d98963b975c482a3ff011d9e3fa60",
         "e1bf139e83a5473698c280e722e29cc46d18b325ee89a2647187285da7272b25",
-        "216ceb3ed56e82a95f300a1a40bc838fbe437ea5245404837cad6a739d82b066"
+        "216ceb3ed56e82a95f300a1a40bc838fbe437ea5245404837cad6a739d82b066",
+        "26df50734e745a39e8be5bf73762e055565e4e9ebcd2973402d33721d07a52c9"
       ]
     },
     {
@@ -29,11 +29,11 @@
       ]
     },
     {
-      "title": "為替",
-      "summary": "為替では、SON DAKİKA I İran nükleer müzakereleri kabul etti : ABDden Tahrana karşı yeni adım ! İsrailin saldırıları en büyük engel ...  が主な確認材料です。",
+      "title": "原油・エネルギー",
+      "summary": "原油・エネルギーでは、Oil edges higher as Middle East tensions linger が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "a9e5daab7e6ebb826f8add7b824a1445278ffb0bfc49b55acbf89d8e4b002f27"
+        "f78f9db5bcd691a1e6b5a11e9381553ff4b0ce199f94e2c0b134396266b7bf82"
       ]
     },
     {
@@ -50,14 +50,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Рубио : Иран согласился обсудить ядерную программу при условии открытия Ормузского пролива / 미 국무장관  이란 제재 완화는 해협 개방 아닌 핵 포기와 연계   / Израиль назвал два сценария возобновления войны с Ираном が主な確認材料です。",
+      "summary": "その他では、미 국무장관  이란 제재 완화는 해협 개방 아닌 핵 포기와 연계   / Израиль назвал два сценария возобновления войны с Ираном / Müzakerelerin 11 Temmuzda Pakistanda devam edeceği iddia edildi が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "0bedfdc3ef05810db3690ce7e7deeeab6b26bc9186687d29bae2bebb853bfd06",
         "7c847cad82abdc881aa61c2d652654b31de747bcd11432d5a05ed56fa1049557",
         "afc0e795801f59468899f89ae33708afdac01b188f3010f366c17eb8f3c5d1b9",
         "478df0bd182628ebc309c170786c36d87e5433223269df98bc824f456659f637",
-        "a4899e66c9d611abd0c6de1011e8c813495174fdb31e786bd4ed14cfa074fe3c"
+        "a4899e66c9d611abd0c6de1011e8c813495174fdb31e786bd4ed14cfa074fe3c",
+        "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317"
       ]
     }
   ],
