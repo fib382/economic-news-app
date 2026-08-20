@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T19:20:29.536123+09:00",
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T07:21:13.114272+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Rubio hopeful of Iran deal , insists on nuclear curbs / Iran insists ceasefire must cover conflict in Lebanon / UN nuclear watchdog says it unable to implement its monitoring responsibilities in Iran – Winnipeg Free Press が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Iran insists ceasefire must cover conflict in Lebanon / UN nuclear watchdog says it unable to implement its monitoring responsibilities in Iran – Winnipeg Free Press / IAEA demands access to Iranian nuclear sites  without delay   が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "9271ca0d7738cabec17613ecd067c461f90d98963b975c482a3ff011d9e3fa60",
         "e1bf139e83a5473698c280e722e29cc46d18b325ee89a2647187285da7272b25",
         "216ceb3ed56e82a95f300a1a40bc838fbe437ea5245404837cad6a739d82b066",
         "26df50734e745a39e8be5bf73762e055565e4e9ebcd2973402d33721d07a52c9",
-        "d72515f2af4155f6a48d8b513d7fd07d380ae3a8c328d74d6379b337d03607ca"
+        "d72515f2af4155f6a48d8b513d7fd07d380ae3a8c328d74d6379b337d03607ca",
+        "a3ff5eab3cecbb9f3efc3f38e1c1a29de118ca26f63960effde9a5843014be54"
       ]
     },
     {
@@ -50,14 +50,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、미 국무장관  이란 제재 완화는 해협 개방 아닌 핵 포기와 연계   / Израиль назвал два сценария возобновления войны с Ираном / Müzakerelerin 11 Temmuzda Pakistanda devam edeceği iddia edildi が主な確認材料です。",
+      "summary": "その他では、Израиль назвал два сценария возобновления войны с Ираном / Müzakerelerin 11 Temmuzda Pakistanda devam edeceği iddia edildi / İran Meclis Başkanı Kalibaf : ABD ile barışımız yok , İsraili tanımayacağız が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "7c847cad82abdc881aa61c2d652654b31de747bcd11432d5a05ed56fa1049557",
         "afc0e795801f59468899f89ae33708afdac01b188f3010f366c17eb8f3c5d1b9",
         "478df0bd182628ebc309c170786c36d87e5433223269df98bc824f456659f637",
         "a4899e66c9d611abd0c6de1011e8c813495174fdb31e786bd4ed14cfa074fe3c",
-        "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317"
+        "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317",
+        "e818e4692ec0fda2e4d2d09beb1d50b854892d189df4cc3f9b149067d7b0734f"
       ]
     }
   ],
