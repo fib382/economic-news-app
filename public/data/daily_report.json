@@ -1,19 +1,19 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T13:36:45.533434+09:00",
+  "generated_at": "2026-08-24T19:28:37.162171+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、IAEA demands access to Iranian nuclear sites  without delay   / UN nuclear watchdog says it unable to implement its monitoring responsibilities in Iran / UN nuclear watchdog says it has been unable to inspect Iranian facilities , enriched uranium stockpile が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Watch : Missiles rain across Israel night sky as Iran launches fresh attacks after two months / US - Israel - Iran War News Live Updates : Iran , Israel pause attacks after latest flare - up ; Trump and Netanyahu appear at odds / Trump says US helicopter pilots who went down in Strait of Hormuz are fine が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "26df50734e745a39e8be5bf73762e055565e4e9ebcd2973402d33721d07a52c9",
-        "d72515f2af4155f6a48d8b513d7fd07d380ae3a8c328d74d6379b337d03607ca",
-        "a3ff5eab3cecbb9f3efc3f38e1c1a29de118ca26f63960effde9a5843014be54",
-        "9ce40d940458049f40c120b4f33138f27c90057b6c492d707b48000e245b7d4a",
-        "68da6c1dd4d80978e4db742668530d730e0a970d39d6519944aa0891846cb4ac"
+        "68da6c1dd4d80978e4db742668530d730e0a970d39d6519944aa0891846cb4ac",
+        "eb0d677eacc3eef4bc27fd7a941f41841f3e9afb6c890c80e99081812383b409",
+        "8a8177dd5dc152ba0d339e1b2242c822996c0082004f600e2096981c7438bede",
+        "0bb5495ce0cba22f0ed0c179d6f074ac440e88a019da17e861a250bd9b26235b",
+        "8c60105ddf22d2baa4550a2ac9db9de2929a7bc866a2d46b97e3238257ba9833"
       ]
     },
     {
@@ -50,14 +50,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Израиль назвал два сценария возобновления войны с Ираном / Müzakerelerin 11 Temmuzda Pakistanda devam edeceği iddia edildi / İran Meclis Başkanı Kalibaf : ABD ile barışımız yok , İsraili tanımayacağız が主な確認材料です。",
+      "summary": "その他では、Donald Trump : İsrail ve İran derhal durmalı / Израиль назвал два сценария возобновления войны с Ираном / Müzakerelerin 11 Temmuzda Pakistanda devam edeceği iddia edildi が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
+        "4487a1edc63d097af70dea0d8b28d18025fc1d40fc39ea233fe19c4e9ae447e1",
         "afc0e795801f59468899f89ae33708afdac01b188f3010f366c17eb8f3c5d1b9",
         "478df0bd182628ebc309c170786c36d87e5433223269df98bc824f456659f637",
         "a4899e66c9d611abd0c6de1011e8c813495174fdb31e786bd4ed14cfa074fe3c",
-        "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317",
-        "e818e4692ec0fda2e4d2d09beb1d50b854892d189df4cc3f9b149067d7b0734f"
+        "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317"
       ]
     }
   ],
