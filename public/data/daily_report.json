@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-25",
-  "generated_at": "2026-08-25T19:22:09.677413+09:00",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T07:20:45.347381+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Watch : Missiles rain across Israel night sky as Iran launches fresh attacks after two months / US - Israel - Iran War News Live Updates : Iran , Israel pause attacks after latest flare - up ; Trump and Netanyahu appear at odds / Trump says US helicopter pilots who went down in Strait of Hormuz are fine が主な確認材料です。",
+      "summary": "イラン・中東情勢では、US - Israel - Iran War News Live Updates : Iran , Israel pause attacks after latest flare - up ; Trump and Netanyahu appear at odds / Trump says US helicopter pilots who went down in Strait of Hormuz are fine / Iran war live updates : Iran halts strikes on Israel as Trump urges  immediate  end to strikes が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "68da6c1dd4d80978e4db742668530d730e0a970d39d6519944aa0891846cb4ac",
         "eb0d677eacc3eef4bc27fd7a941f41841f3e9afb6c890c80e99081812383b409",
         "8a8177dd5dc152ba0d339e1b2242c822996c0082004f600e2096981c7438bede",
         "0bb5495ce0cba22f0ed0c179d6f074ac440e88a019da17e861a250bd9b26235b",
-        "8c60105ddf22d2baa4550a2ac9db9de2929a7bc866a2d46b97e3238257ba9833"
+        "8c60105ddf22d2baa4550a2ac9db9de2929a7bc866a2d46b97e3238257ba9833",
+        "6b7ccae1a2fb9eb68f50742210baf44cc83e0a1b6bad5879c6ce01c31eb9c303"
       ]
     },
     {
@@ -24,8 +24,8 @@
         "8c0706824574d9ef42b1b970cc9c526c7e27a6305fc48bb96ad9f006490660ec",
         "0f005ad9902b41ace1d667238c3edbeb309d563ffe705105701863e54342ca70",
         "9f61ae0c251dc298154c59b7a50142af7081cea6e7f3c3623abbf62dd2fba13e",
-        "a7c558a113ed433c4a519c9b8c7ed6faa0cc4a028e494b5ecb62d2a374f0c421",
-        "b5daa2570517854d6383515e167cc4b542fa6978586ae886173071be0a8bc2aa"
+        "cf6edfadc32206d936c27196f2838e8b12cca21631818625a3b69cb6effb2cb8",
+        "a7c558a113ed433c4a519c9b8c7ed6faa0cc4a028e494b5ecb62d2a374f0c421"
       ]
     },
     {
@@ -38,26 +38,26 @@
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、Barr, Deregulating in a Financial Boom: What Could Go Wrong? / Waller, Two Thoughts on the Transmission of Monetary Policy / Bowman, Opening Remarks on Sound Practices for Artificial Intelligence が主な確認材料です。",
+      "summary": "要人発言では、Waller, Two Thoughts on the Transmission of Monetary Policy / Bowman, Opening Remarks on Sound Practices for Artificial Intelligence / Bowman, Modernizing Financial Regulation が主な確認材料です。",
       "importance": "B",
       "source_item_ids": [
-        "3d534e9dbac07533de9c26a45dfd12e7143c0437ec6734a2bf192be6943ef078",
         "9d358f3ad87e5a3aa90b07c03e597d7af913e41b7408b3f891de54d9813a84f7",
         "4bc9f02dd66c1a5946b4caf38fb563e52a567cf7027a88fb772c88a3d0a4da0b",
         "48908f3b05c4c3c9bea7fcad8363fdb71bdab5eea8a7c6ed7cc4ac196ddc03ef",
-        "e74484308e946429e3a586399f7174bb580772c9f741be66c85009a79279b9cc"
+        "e74484308e946429e3a586399f7174bb580772c9f741be66c85009a79279b9cc",
+        "454002662c72e89df49a585c2a72354124a4937d7aa7f9a6c5d886da96e1ba74"
       ]
     },
     {
       "title": "その他",
-      "summary": "その他では、Donald Trump : İsrail ve İran derhal durmalı / Израиль назвал два сценария возобновления войны с Ираном / Müzakerelerin 11 Temmuzda Pakistanda devam edeceği iddia edildi が主な確認材料です。",
+      "summary": "その他では、Израиль назвал два сценария возобновления войны с Ираном / Müzakerelerin 11 Temmuzda Pakistanda devam edeceği iddia edildi / İran Meclis Başkanı Kalibaf : ABD ile barışımız yok , İsraili tanımayacağız が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "4487a1edc63d097af70dea0d8b28d18025fc1d40fc39ea233fe19c4e9ae447e1",
         "afc0e795801f59468899f89ae33708afdac01b188f3010f366c17eb8f3c5d1b9",
         "478df0bd182628ebc309c170786c36d87e5433223269df98bc824f456659f637",
         "a4899e66c9d611abd0c6de1011e8c813495174fdb31e786bd4ed14cfa074fe3c",
-        "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317"
+        "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317",
+        "e818e4692ec0fda2e4d2d09beb1d50b854892d189df4cc3f9b149067d7b0734f"
       ]
     }
   ],
