@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T23:53:33.905272+09:00",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T05:04:00.405433+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Trump Declares Iran Peace Deal  Complete  as Strait of Hormuz Set to Reopen / As Iran , US reach peace deal , a look at decades - long nuclear standoff / War in Lebanon casts shadow over renewed Iran - US nuclear talks が主な確認材料です。",
+      "summary": "イラン・中東情勢では、US temporarily suspends Iran oil sanctions as nuclear inspectors return / US temporarily lifts Iranian oil sanctions in bid to advance nuclear and security talks / Iran Says to Oversee Hormuz as Swiss Talks Conclude が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "b52b879fe195fbadb6937011b717c44ec64e4070f50d9baa2195e43e2584bc99",
-        "6aace225415607a23d309a882535729eec6bef9a7a5cadb50dce539ef5d36f18",
-        "a3120297b74d1e743bec8e59f5dbd68253472aede3a452a70db830fcfc71e412",
-        "16a55d29baf190d39dc5b75c0d2fde5c606dc313ec2bdb35355bbca73f32b71c",
-        "49ef8d5411e37dcd2b9f9e99c0d606c599c0631943c2b25087bd0274b061fc81"
+        "49ef8d5411e37dcd2b9f9e99c0d606c599c0631943c2b25087bd0274b061fc81",
+        "0259e1fcd5d1834bb711005a04924f9d0d543ab85e5b3791337d72505d0ef4da",
+        "be2bf55f2e63d3401a7bececcc3b9bc7d76972bfe79f0b6241b92b4e0ec17987",
+        "3810a31d0ae5ccf765937be3dfbf3c42388298a4e1fc9c4748d921637905ce35",
+        "69bdb0a61e6761ee5d5fcaabd9fec6a7d30cbc20247b292310fef5cd05b1cc97"
       ]
     },
     {
       "title": "FRB",
-      "summary": "FRBでは、Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting / Minutes of the Board's discount rate meetings on June 8 and June 17, 2026 / Federal Reserve issues FOMC statement が主な確認材料です。",
+      "summary": "FRBでは、Minutes of the Board's discount rate meetings on June 8 and June 17, 2026 / Federal Reserve issues FOMC statement / Minutes of the Board's discount rate meetings on July 20 and July 29, 2026 が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "8c0706824574d9ef42b1b970cc9c526c7e27a6305fc48bb96ad9f006490660ec",
         "0f005ad9902b41ace1d667238c3edbeb309d563ffe705105701863e54342ca70",
         "9f61ae0c251dc298154c59b7a50142af7081cea6e7f3c3623abbf62dd2fba13e",
         "cf6edfadc32206d936c27196f2838e8b12cca21631818625a3b69cb6effb2cb8",
-        "eabee8c9152427273e2287baed3ce904139e5fe6671205622f3cff2baec7a3b0"
+        "9ec7c9cb9f08c06a6df6d7f50473c6d6b2a3f5f91183ca4f132e85f7dc464e12",
+        "089e218baeb15e2cafdc2032160f4ebf08b15d1e8bf4e9f6ab30c44c9cbb2b99"
       ]
     },
     {
