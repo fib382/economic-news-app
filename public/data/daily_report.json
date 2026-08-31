@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T19:18:55.175932+09:00",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T02:18:45.163232+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
@@ -50,14 +50,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Израиль назвал два сценария возобновления войны с Ираном / Müzakerelerin 11 Temmuzda Pakistanda devam edeceği iddia edildi / İran Meclis Başkanı Kalibaf : ABD ile barışımız yok , İsraili tanımayacağız が主な確認材料です。",
+      "summary": "その他では、Müzakerelerin 11 Temmuzda Pakistanda devam edeceği iddia edildi / İran Meclis Başkanı Kalibaf : ABD ile barışımız yok , İsraili tanımayacağız / Переговоры США и Ирана : Вашингтон требует гарантий по Ормузу и ядерной программе が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "afc0e795801f59468899f89ae33708afdac01b188f3010f366c17eb8f3c5d1b9",
         "478df0bd182628ebc309c170786c36d87e5433223269df98bc824f456659f637",
         "a4899e66c9d611abd0c6de1011e8c813495174fdb31e786bd4ed14cfa074fe3c",
         "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317",
-        "e818e4692ec0fda2e4d2d09beb1d50b854892d189df4cc3f9b149067d7b0734f"
+        "e818e4692ec0fda2e4d2d09beb1d50b854892d189df4cc3f9b149067d7b0734f",
+        "075f3017df31c3dd565d09d19b097f1257773c3d5f14a6569d9669eae1231880"
       ]
     }
   ],
