@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T08:47:46.717865+09:00",
+  "generated_at": "2026-09-03T17:25:41.306845+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
@@ -38,26 +38,26 @@
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、Waller, Two Thoughts on the Transmission of Monetary Policy / Bowman, Opening Remarks on Sound Practices for Artificial Intelligence / Bowman, Modernizing Financial Regulation が主な確認材料です。",
+      "summary": "要人発言では、Bowman, Modernizing Financial Regulation / Waller, Monetary Policy at a Crossroads / Cook, Economic Outlook が主な確認材料です。",
       "importance": "B",
       "source_item_ids": [
-        "9d358f3ad87e5a3aa90b07c03e597d7af913e41b7408b3f891de54d9813a84f7",
-        "4bc9f02dd66c1a5946b4caf38fb563e52a567cf7027a88fb772c88a3d0a4da0b",
         "48908f3b05c4c3c9bea7fcad8363fdb71bdab5eea8a7c6ed7cc4ac196ddc03ef",
         "e74484308e946429e3a586399f7174bb580772c9f741be66c85009a79279b9cc",
-        "454002662c72e89df49a585c2a72354124a4937d7aa7f9a6c5d886da96e1ba74"
+        "454002662c72e89df49a585c2a72354124a4937d7aa7f9a6c5d886da96e1ba74",
+        "12b7ef7c08eabecb3cc5ec0617426b3db4b4092533e3678c0511dd425861ed8c",
+        "8a5cc117a6386ecb996f3157da6a58690be3db7cf474037b64f431c103f2d096"
       ]
     },
     {
       "title": "その他",
-      "summary": "その他では、İran Meclis Başkanı Kalibaf : ABD ile barışımız yok , İsraili tanımayacağız / Переговоры США и Ирана : Вашингтон требует гарантий по Ормузу и ядерной программе / 2 US service members killed , 1 missing after attack in Jordan が主な確認材料です。",
+      "summary": "その他では、Переговоры США и Ирана : Вашингтон требует гарантий по Ормузу и ядерной программе / 2 US service members killed , 1 missing after attack in Jordan / Amerikalıların gerçek sorunu İsrail …  が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "a4899e66c9d611abd0c6de1011e8c813495174fdb31e786bd4ed14cfa074fe3c",
         "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317",
         "e818e4692ec0fda2e4d2d09beb1d50b854892d189df4cc3f9b149067d7b0734f",
         "075f3017df31c3dd565d09d19b097f1257773c3d5f14a6569d9669eae1231880",
-        "d03496e9fe1c100e242c26d394cf2f53c574ae5b1fa08aaf9ec1688f9095d298"
+        "d03496e9fe1c100e242c26d394cf2f53c574ae5b1fa08aaf9ec1688f9095d298",
+        "6af11dc841e35229618fad8e50b4a487bea789b0ac9d6391357bfef08631ed0c"
       ]
     }
   ],
