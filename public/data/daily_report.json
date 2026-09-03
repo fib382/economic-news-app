@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03T23:00:08.903878+09:00",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T08:44:52.776391+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、U . S . resumes  powerful strike on Iran after Hormuz Strait ship attacks , CENTCOM says / US launches fresh strikes on Iran following attack on vessel in Hormuz strait / US vs Iran war : How Strait of Hormuz crisis triggered 8 days of strikes | Full timeline が主な確認材料です。",
+      "summary": "イラン・中東情勢では、US launches fresh strikes on Iran following attack on vessel in Hormuz strait / US vs Iran war : How Strait of Hormuz crisis triggered 8 days of strikes | Full timeline / New US sanctions target Iran Hormuz income が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "108add42d3edc46e54397e4f4883fe7a556018a5a8156965cd0efe6488096cfc",
         "673747245affdee4fe9b62095fdc1602cae45127844877ef03b830a20875a52b",
         "1f3435aa4168c1b2567bd093345698945e5e87b13cac05a59340d59fa1ece8c0",
         "fbbcb315851e365816e19b7ed27fd588c23a03f9b7ecd3a20b8e21b86bc7f109",
-        "0feee6e48b7652735f2f0f379df594a65b8be7e02275e13343ef2b15b00fee28"
+        "0feee6e48b7652735f2f0f379df594a65b8be7e02275e13343ef2b15b00fee28",
+        "da52797d92680cee882be0357a574fac80ab7c4bc86a1d30ed6753d393a56edd"
       ]
     },
     {
@@ -30,10 +30,11 @@
     },
     {
       "title": "原油・エネルギー",
-      "summary": "原油・エネルギーでは、Oil edges higher as Middle East tensions linger が主な確認材料です。",
+      "summary": "原油・エネルギーでは、Oil edges higher as Middle East tensions linger / Oil prices hit fresh 6 - week highs on renewed Middle East tensions が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "f78f9db5bcd691a1e6b5a11e9381553ff4b0ce199f94e2c0b134396266b7bf82"
+        "f78f9db5bcd691a1e6b5a11e9381553ff4b0ce199f94e2c0b134396266b7bf82",
+        "e8d06a5847e7c335d701e1eca0adaa684e3fc68918e55d36e8f0408048a921c3"
       ]
     },
     {
