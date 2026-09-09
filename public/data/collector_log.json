@@ -1,13 +1,9 @@
 {
-  "generated_at": "2026-09-09T17:30:02.528137+09:00",
+  "generated_at": "2026-09-09T23:02:44.698485+09:00",
   "errors": [
     {
       "source": "GDELT",
       "message": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28Iran+OR+Israel+OR+Hormuz+OR+sanctions+OR+nuclear%29&mode=ArtList&format=json&maxrecords=20&sort=HybridRel"
-    },
-    {
-      "source": "FRB",
-      "message": "404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml"
     }
   ]
 }
