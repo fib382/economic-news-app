@@ -1,19 +1,19 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T08:46:35.429717+09:00",
+  "generated_at": "2026-09-10T17:32:10.227307+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、US launches fresh strikes on Iran following attack on vessel in Hormuz strait / US vs Iran war : How Strait of Hormuz crisis triggered 8 days of strikes | Full timeline / New US sanctions target Iran Hormuz income が主な確認材料です。",
+      "summary": "イラン・中東情勢では、US vs Iran war : How Strait of Hormuz crisis triggered 8 days of strikes | Full timeline / New US sanctions target Iran Hormuz income / Trump Claims US - Iran Reach Framework Deal To End Nuclear Program , Says Countries Have Reached  Parameters Of A Deal   が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "673747245affdee4fe9b62095fdc1602cae45127844877ef03b830a20875a52b",
         "1f3435aa4168c1b2567bd093345698945e5e87b13cac05a59340d59fa1ece8c0",
         "fbbcb315851e365816e19b7ed27fd588c23a03f9b7ecd3a20b8e21b86bc7f109",
         "0feee6e48b7652735f2f0f379df594a65b8be7e02275e13343ef2b15b00fee28",
-        "da52797d92680cee882be0357a574fac80ab7c4bc86a1d30ed6753d393a56edd"
+        "da52797d92680cee882be0357a574fac80ab7c4bc86a1d30ed6753d393a56edd",
+        "42362b9ee6f8408d8f02834a99be566017be7c0e07ab1795fe342a94e570eb5f"
       ]
     },
     {
@@ -24,8 +24,8 @@
         "0f005ad9902b41ace1d667238c3edbeb309d563ffe705105701863e54342ca70",
         "9f61ae0c251dc298154c59b7a50142af7081cea6e7f3c3623abbf62dd2fba13e",
         "cf6edfadc32206d936c27196f2838e8b12cca21631818625a3b69cb6effb2cb8",
-        "6200776e06142ea09021a9fee3594a9fce487e0d41ec8d7d060103fa642441f1",
-        "bdeea91aa9e8a22ba056659852b3111391003d8a52c6922a6dcce582f05a1bb2"
+        "dde86fc124b6203b1e8791b0647c67fea1fd49c938d50979c09139ed0f477bff",
+        "5a0d914f660fbdc8ac83050c2d3d79aca576217586b8465a977a9c9fa9e6b4a0"
       ]
     },
     {
@@ -51,14 +51,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Переговоры США и Ирана : Вашингтон требует гарантий по Ормузу и ядерной программе / 2 US service members killed , 1 missing after attack in Jordan / Amerikalıların gerçek sorunu İsrail …  が主な確認材料です。",
+      "summary": "その他では、2 US service members killed , 1 missing after attack in Jordan / Amerikalıların gerçek sorunu İsrail …  / Tensions in Lebanon and other news from across the Middle East が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "4c0ca2871ad47de1ce67e24776a48910d8dbd6919f4d71fdd11f23317fdb4317",
         "e818e4692ec0fda2e4d2d09beb1d50b854892d189df4cc3f9b149067d7b0734f",
         "075f3017df31c3dd565d09d19b097f1257773c3d5f14a6569d9669eae1231880",
         "d03496e9fe1c100e242c26d394cf2f53c574ae5b1fa08aaf9ec1688f9095d298",
-        "6af11dc841e35229618fad8e50b4a487bea789b0ac9d6391357bfef08631ed0c"
+        "6af11dc841e35229618fad8e50b4a487bea789b0ac9d6391357bfef08631ed0c",
+        "89c6e823f3ce35e90655f950e6ad957a76ad9b106558102770f6b869817daf53"
       ]
     }
   ],
