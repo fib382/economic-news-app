@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T23:28:23.010460+09:00",
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T09:01:05.534024+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
@@ -18,14 +18,14 @@
     },
     {
       "title": "FRB",
-      "summary": "FRBでは、Minutes of the Board's discount rate meetings on June 8 and June 17, 2026 / Federal Reserve issues FOMC statement / Minutes of the Board's discount rate meetings on July 20 and July 29, 2026 が主な確認材料です。",
+      "summary": "FRBでは、Minutes of the Board's discount rate meetings on June 8 and June 17, 2026 / Minutes of the Board's discount rate meetings on July 20 and July 29, 2026 / Federal Reserve issues FOMC statement が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
         "0f005ad9902b41ace1d667238c3edbeb309d563ffe705105701863e54342ca70",
-        "9f61ae0c251dc298154c59b7a50142af7081cea6e7f3c3623abbf62dd2fba13e",
         "cf6edfadc32206d936c27196f2838e8b12cca21631818625a3b69cb6effb2cb8",
-        "dde86fc124b6203b1e8791b0647c67fea1fd49c938d50979c09139ed0f477bff",
-        "5a0d914f660fbdc8ac83050c2d3d79aca576217586b8465a977a9c9fa9e6b4a0"
+        "1b84141989e80cf94cf3881e27f0b997085a1343c6acc2877ceaaca998621357",
+        "d3d6103e4cd81a861785618a01151ab419c505c1feca64620cfe6262fb8be5ba",
+        "dde86fc124b6203b1e8791b0647c67fea1fd49c938d50979c09139ed0f477bff"
       ]
     },
     {
