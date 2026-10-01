@@ -1,19 +1,19 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T10:01:24.727242+09:00",
+  "generated_at": "2026-10-01T19:36:45.411761+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Iran IRGC commander vows to pursue nuclear weapons until US disarms / Nuclear experts urge Trump not to let Iran steer talks away from regime atomic threat / Iran Issues Caution to US Over Potential  Grave Miscalculation  in Strait of Hormuz が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Iran Issues Caution to US Over Potential  Grave Miscalculation  in Strait of Hormuz / Strait of Hormuz Shipping Near Standstill After New Vessel Attacks / US - Iran ceasefire set to expire as Hormuz tensions persist が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "da52797d92680cee882be0357a574fac80ab7c4bc86a1d30ed6753d393a56edd",
-        "42362b9ee6f8408d8f02834a99be566017be7c0e07ab1795fe342a94e570eb5f",
         "6512957b1d7c236b640a715c38934bcb0cae5ea85abf4c2e456612633150262f",
         "e48f811e8ea07108b26470a808ccb0441cf6061f2fb6c1287859be984dcf2a34",
-        "36225143043c79fa86444d2dcba17602a484a6ecc6065869a0afe3a23dcb8723"
+        "36225143043c79fa86444d2dcba17602a484a6ecc6065869a0afe3a23dcb8723",
+        "6ea8eb939371bd994955fdd031a8586b230335cc0fec72783684b36eebde4f40",
+        "fd010652bffb4a1546c2833913228323628fb203442e0cdf0fd4e8fe312dba8b"
       ]
     },
     {
@@ -39,14 +39,14 @@
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、Cook, Outlook for the U.S. and Alaskan Economies / Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record / Waller, The Economic Outlook and Some Comments on My Policy Communication が主な確認材料です。",
+      "summary": "要人発言では、Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record / Waller, The Economic Outlook and Some Comments on My Policy Communication / Bowman, Initial Findings from Independent Review of Silicon Valley Bank が主な確認材料です。",
       "importance": "B",
       "source_item_ids": [
-        "8a5cc117a6386ecb996f3157da6a58690be3db7cf474037b64f431c103f2d096",
         "31b426dc647cf81e7f571dd8b2bcb7a0e0f51517adc8ef458b6e78d131a24de1",
         "975a09bea186dcd9f23915c008cdca4c5a54cdcdcd8cb26f52da81291036457a",
         "e7ca47fea1ecde3684b00c78678adce805d6c1271e3eafde686a7618c10c99cb",
-        "2d66c1e4e2ae4de8aa5756c9836390ae878a082c453215ef54ddb9ea5a7b11a2"
+        "2d66c1e4e2ae4de8aa5756c9836390ae878a082c453215ef54ddb9ea5a7b11a2",
+        "08b8e54002c8100ca6b4a4d613d9e7c965df6bb27caa94cd43d3a157fd326e4d"
       ]
     },
     {
