@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T01:47:45.839723+09:00",
+  "generated_at": "2026-10-02T10:15:07.047434+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
@@ -39,26 +39,26 @@
     },
     {
       "title": "要人発言",
-      "summary": "要人発言では、Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record / Waller, The Economic Outlook and Some Comments on My Policy Communication / Bowman, Initial Findings from Independent Review of Silicon Valley Bank が主な確認材料です。",
+      "summary": "要人発言では、Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record / Waller, The Economic Outlook and Some Comments on My Policy Communication / Bowman, The Final Chapter on Modernizing Bank Regulatory Stress Testing が主な確認材料です。",
       "importance": "B",
       "source_item_ids": [
         "31b426dc647cf81e7f571dd8b2bcb7a0e0f51517adc8ef458b6e78d131a24de1",
         "975a09bea186dcd9f23915c008cdca4c5a54cdcdcd8cb26f52da81291036457a",
-        "e7ca47fea1ecde3684b00c78678adce805d6c1271e3eafde686a7618c10c99cb",
         "2d66c1e4e2ae4de8aa5756c9836390ae878a082c453215ef54ddb9ea5a7b11a2",
+        "e7ca47fea1ecde3684b00c78678adce805d6c1271e3eafde686a7618c10c99cb",
         "08b8e54002c8100ca6b4a4d613d9e7c965df6bb27caa94cd43d3a157fd326e4d"
       ]
     },
     {
       "title": "その他",
-      "summary": "その他では、Слухи о возможном объявлении победы и выводе войск ... Что скрывается за  спокойствием  Трампа по отношению к Ирану ? ( An Nahar , Ливан )  / Иранский депутат Салими сравнил значение Ормузского пролива с ядерным оружием | MigNews - Новости Израиля и Мира на русском языке / War in Lebanon Escalates | Rigzone が主な確認材料です。",
+      "summary": "その他では、War in Lebanon Escalates | Rigzone / UAE Flight Updates Today : Emirates , Etihad , Air Arabia , flydubai Cancellations and Delays Amid Middle East Tensions / Irán megfenyegette szomszédait : aki beszáll Amerika „ gazdasági háborújába , ellenségnek számít が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "6af11dc841e35229618fad8e50b4a487bea789b0ac9d6391357bfef08631ed0c",
-        "89c6e823f3ce35e90655f950e6ad957a76ad9b106558102770f6b869817daf53",
         "b4bcc2d44de95e365887069f49e72c18fd52453b04f66597909125ad6dcf4c8d",
         "18a9cc6f64d413f905ab5fbc201d97ca2e5d3617cc205241f78afe600c50f654",
-        "e0244033a7722b1fee5523e0ac0905599e17496ad47fd6a562eab43ce2bb44bf"
+        "e0244033a7722b1fee5523e0ac0905599e17496ad47fd6a562eab43ce2bb44bf",
+        "00b78918b2f9353f5330d93a16ab5f82944bb44f18d6738a0d8157f57ae0ae5e",
+        "10f6295e04e6f00cb6caaa425307c11347d5ccd08138b7bb57783d4abed6f7e9"
       ]
     }
   ],
