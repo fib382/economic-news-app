@@ -1,31 +1,31 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T10:57:40.350794+09:00",
+  "generated_at": "2026-11-06T20:42:14.978158+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Iran Threatens US Interests After Washington Expands Sanctions and Targets Oil Trade / Trump says all mines cleared from Strait of Hormuz / Oil Prices Fall as Middle East Ceasefire Hopes Rise が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Oil Prices Fall as Middle East Ceasefire Hopes Rise / Oil tanker attacked in Strait of Hormuz as regional powers seek end of Iran war / Iran War Diplomacy Turns toward Reopening Strait of Hormuz が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "53fd743d258de2d8bc411f54ac6a32863893a8d07958d3f6df137f711fc39aa8",
-        "094ef9b654205984cbbf8250ca5d4e6e642596c55572d43eeedf6f1bc369b9a8",
         "c5437f21d85a420edc94e028c3c31ef3a1c1763ab8134aad7dc80f88276e25d7",
         "7fc63cc30d1805449808034c36ad46a087078386490ee9050d9bc65527db15ef",
-        "9e1b5749675931eb0dfab432c6cdbd797e23695546657de29069968c5362cfe1"
+        "9e1b5749675931eb0dfab432c6cdbd797e23695546657de29069968c5362cfe1",
+        "15270fc27fe083b1a6cd917f04f766e352aaec38af2277bd3a79697ba2ab0b47",
+        "203b34453b8093c0621fb9f56d72db9649c4f3b72f4e3842dfc9b6a9ae32112e"
       ]
     },
     {
       "title": "FRB",
-      "summary": "FRBでは、Minutes of the Board's discount rate meetings on July 20 and July 29, 2026 / Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting / Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026 が主な確認材料です。",
+      "summary": "FRBでは、Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting / Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026 / Federal Reserve issues FOMC statement が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "cf6edfadc32206d936c27196f2838e8b12cca21631818625a3b69cb6effb2cb8",
         "d3d6103e4cd81a861785618a01151ab419c505c1feca64620cfe6262fb8be5ba",
         "21f093962e8ae4105c693c2a2f9fbbfa5b982ba6b14b8e0a84a1efd1e7c6b5df",
         "24036bbeb1d7b475f5bc1b0f33428f474048f818ed5d48a0656726767968a965",
-        "ac190ce7d50eb81364b1c4ee6479beb4287e355a9f11c62224c5292e5ff1bfff"
+        "ac190ce7d50eb81364b1c4ee6479beb4287e355a9f11c62224c5292e5ff1bfff",
+        "ce4a9e096ff4ad56fef2ae7b976728d5e1587a99c682efb4923ab7383e8f1041"
       ]
     },
     {
@@ -50,14 +50,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Shipping Tribune / 트럼프  호르무즈 해협 기뢰 모두 제거  주장 /   לעת עתה  בלי תקיפות באיראן : ארה  ב עוברת ל  חניקה   が主な確認材料です。",
+      "summary": "その他では、হরমুজে প্রণালীতে নৌ চলাচল স্বাভাবিক করতে ইরান - ওমান আলোচনা / 美軍 겨냥 … 이란  호르무즈 열려도 군함은 통과 못해   / Дональд Трамп – США остановили ядерную программу Ирана – ядерное соглашение времен Обамы が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "00b78918b2f9353f5330d93a16ab5f82944bb44f18d6738a0d8157f57ae0ae5e",
-        "10f6295e04e6f00cb6caaa425307c11347d5ccd08138b7bb57783d4abed6f7e9",
-        "8a5e5351f842ecec0b0874ea732fc0b8c222e9c1b2ff5e1272514fcd8f56b73f",
         "b2d21b389aebb40bc4d6b3feed9ab5cfe5c623ff04f227eb0ca5af8c233a5448",
-        "9ec2e11c350dc34cae0b4d45d66af155aab21e7fe559560ef6714d83d91a6351"
+        "9ec2e11c350dc34cae0b4d45d66af155aab21e7fe559560ef6714d83d91a6351",
+        "aee11799fcd66978801047d173ac2413412fdc1abba2141725063433bade66f3",
+        "5a64bbff6c52e143afaaa9c6827c0d5b7d8bb37fe45e4cd9bf0f6c1b0377503b",
+        "9b091ca441a25f7b882c3c2710566ea99f5aa9c879481fe3d03413a3bb13cf7e"
       ]
     }
   ],
