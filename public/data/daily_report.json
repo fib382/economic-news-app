@@ -1,19 +1,19 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T21:21:56.076371+09:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T03:09:52.606565+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Timeline : U . S .- Israel - Iran war -- key events of past 6 months / Oil Prices Jump as U . S .- Iran Tensions Threaten Hormuz Supply / Seven conditions , one chokepoint and no talks : Iran shuts door on US negotiations over Hormuz が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Oil Prices Jump as U . S .- Iran Tensions Threaten Hormuz Supply / Seven conditions , one chokepoint and no talks : Iran shuts door on US negotiations over Hormuz / Iran Pressed to Make Nuclear Concessions to Revive Peace Talks With U . S .  が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "a7093cf3f276ff10d540a5a79bab1aa9af47bacc95960614fcd808eacbaa0663",
         "3ceff2b34a8970f3916977fc06fb22d69156f3bfce6f9ccae774e5d05e76d89d",
         "bced9d79c281e4f5a45a4eddcf30fbb65a1b48edf887f35624b9c835c30220a6",
         "3c6acacb9660eb4f5b14bd2c79d0332668afa8fc0517678bc9b872bbe9ab2c48",
-        "3d7e35c07055852d5e140905c7fbd2090d8a8254885b53b5841d25bc0ce9ab24"
+        "3d7e35c07055852d5e140905c7fbd2090d8a8254885b53b5841d25bc0ce9ab24",
+        "7475a4e7c627a298269022e45ab4d8f4e5e6d3920157149df7582fc339b8ad6e"
       ]
     },
     {
@@ -24,8 +24,8 @@
         "d3d6103e4cd81a861785618a01151ab419c505c1feca64620cfe6262fb8be5ba",
         "21f093962e8ae4105c693c2a2f9fbbfa5b982ba6b14b8e0a84a1efd1e7c6b5df",
         "24036bbeb1d7b475f5bc1b0f33428f474048f818ed5d48a0656726767968a965",
-        "b2c3290a3700a99cb0867477b974f9f5500019cf4ae35938cc8411569160d346",
-        "e60e9ed889a29008e0b0f8973a22474ffc34e88b9e3c7a4cd95467b76ec4c748"
+        "4b7982c1732e02088bd25798dadf12ff23ada92d7c2604c3af900886ba89d4d2",
+        "b2c3290a3700a99cb0867477b974f9f5500019cf4ae35938cc8411569160d346"
       ]
     },
     {
@@ -50,14 +50,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Дональд Трамп : санкционное давление США заставит Иран пойти на уступки – война на Ближнем Востоке / 이란 전쟁 6개월 … 글로벌 안보 · 경제 심각한  타격   / Trump saldırıların nedenini açıkladı !  İsraile ve Orta Doğuya yardım etmek için   が主な確認材料です。",
+      "summary": "その他では、이란 전쟁 6개월 … 글로벌 안보 · 경제 심각한  타격   / Trump saldırıların nedenini açıkladı !  İsraile ve Orta Doğuya yardım etmek için   / 美對伊朗全面施壓 川普 ： 或攻擊鎬山核設施 | 伊朗油輪 | 哈爾克島 | 霍爾木茲海峽 が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "acf58795603ffd48a772425140238e48a5f9fc507e4d08cb9b6b899b68db9c0d",
         "bd8370f859eb6772e0a33a19c7cfd4259d1dbdfb1346d2826a9eba8c32caf919",
         "ee462ac2d0001ac330c146c2442b36eaec86988129796fa8ecd9a7bf84145f23",
         "9eaebbab5e877354f9ded7671908a5f835646d74d5f62138aba55f1c15d06968",
-        "16f163f39e1a91d0e457659cca7879565afdf90beabca37c8f2c7062ba332b77"
+        "16f163f39e1a91d0e457659cca7879565afdf90beabca37c8f2c7062ba332b77",
+        "d548fb7d7e1806874e9f86bc6f833f1d25889a7749299a3dd2d34081e2702d51"
       ]
     }
   ],
