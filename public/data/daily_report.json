@@ -1,19 +1,19 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T11:08:14.823612+09:00",
+  "generated_at": "2026-11-23T22:54:20.723216+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Iran claims strike on US ship in Strait of Hormuz as fighting escalates / Iran claims strike on US ship in Strait of Hormuz as fighting escalates – WTOP News / Iran claims a strike on a US ship in the Strait of Hormuz but the US denies it が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Iran claims strike on US ship in Strait of Hormuz as fighting escalates – WTOP News / Iran claims a strike on a US ship in the Strait of Hormuz but the US denies it / US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "6a6d0f7eff05d18c36004f29a43651156a1fe218c41917448f17db566982dab8",
         "4b6379fb01e36753d187f4b478cf707ecac957c6c109ddb3c3c2aa0197197d86",
         "08f931d9badd70bc2574b8134c6df0a9aa6c8cfc1e232dc7f6450d361bf4a05e",
         "de84e385ca0ed01864fb4192dec98be2073fb817c7257b38d4d7ac5de42fc8dc",
-        "fb8cd03572dc2ff2393945dbbe96bbd21036bbcdca2c496a573b7a8ab58741af"
+        "fb8cd03572dc2ff2393945dbbe96bbd21036bbcdca2c496a573b7a8ab58741af",
+        "bced9d79c281e4f5a45a4eddcf30fbb65a1b48edf887f35624b9c835c30220a6"
       ]
     },
     {
@@ -42,14 +42,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、Главные новости Израиля и мира за 4 - 5 сентября | MigNews - Новости Израиля и Мира на русском языке / В США допустили отказ от соглашения с Ираном по ядерной программе / 또 시작된 보복전 … 美 이란 유조선 공격에 이란  요르단 기지 타격 ( 종합 )  が主な確認材料です。",
+      "summary": "その他では、В США допустили отказ от соглашения с Ираном по ядерной программе / 또 시작된 보복전 … 美 이란 유조선 공격에 이란  요르단 기지 타격 ( 종합 )  / BMde Trumpa cevap gecikmedi ! Pezeşkiyan fotoğrafları gösterdi が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "16f163f39e1a91d0e457659cca7879565afdf90beabca37c8f2c7062ba332b77",
         "d548fb7d7e1806874e9f86bc6f833f1d25889a7749299a3dd2d34081e2702d51",
         "2d87b0d5dcea24444be849de29fc2f0f2f353591f56cd66a65d3d8699ecbe9fa",
         "6412af1ad7d49671ccd1b1400afbf74b452d34eec9e5debb4ff605c0bbbf6b01",
-        "3aa502eb0af223bdd116e64d3735f7dbc7b72408382f6c36916f834564a5e3c5"
+        "3aa502eb0af223bdd116e64d3735f7dbc7b72408382f6c36916f834564a5e3c5",
+        "d97a47d1ca04af3eb2a230c9b837aff26452de5d0ee4876bb290326981bc244b"
       ]
     }
   ],
