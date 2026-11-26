@@ -1,19 +1,19 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T04:40:11.061126+09:00",
+  "generated_at": "2026-11-26T12:54:31.468731+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、Iran claims a strike on a US ship in the Strait of Hormuz but the US denies it / US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz / Arab News | Iran stands firm on Hormuz plan after US rejection が主な確認材料です。",
+      "summary": "イラン・中東情勢では、US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz / Arab News | Iran stands firm on Hormuz plan after US rejection / Seven conditions , one chokepoint and no talks : Iran shuts door on US negotiations over Hormuz が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "08f931d9badd70bc2574b8134c6df0a9aa6c8cfc1e232dc7f6450d361bf4a05e",
         "de84e385ca0ed01864fb4192dec98be2073fb817c7257b38d4d7ac5de42fc8dc",
         "fb8cd03572dc2ff2393945dbbe96bbd21036bbcdca2c496a573b7a8ab58741af",
         "bced9d79c281e4f5a45a4eddcf30fbb65a1b48edf887f35624b9c835c30220a6",
-        "3c6acacb9660eb4f5b14bd2c79d0332668afa8fc0517678bc9b872bbe9ab2c48"
+        "3c6acacb9660eb4f5b14bd2c79d0332668afa8fc0517678bc9b872bbe9ab2c48",
+        "341bd8d345c5e4127e9384e6657acb9a0e0e9318f1206bcc8bc749225458b978"
       ]
     },
     {
@@ -26,6 +26,15 @@
         "24036bbeb1d7b475f5bc1b0f33428f474048f818ed5d48a0656726767968a965",
         "4b7982c1732e02088bd25798dadf12ff23ada92d7c2604c3af900886ba89d4d2",
         "6cb395a3e945277255e096f1b2b5eeaa551e8d2710160538855d0855eca4c29c"
+      ]
+    },
+    {
+      "title": "為替",
+      "summary": "為替では、Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions / Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans が主な確認材料です。",
+      "importance": "C",
+      "source_item_ids": [
+        "2fc340e85ff5ede11d04f27d346dfcc86c057de6fe9e0ce0f38919b9b063d2fd",
+        "023d985c99fbd5edad05da483a6b0177e5df44385aa4e6b6857d49604c24f937"
       ]
     },
     {
