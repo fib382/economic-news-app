@@ -1,19 +1,19 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-28T12:41:09.976145+09:00",
+  "generated_at": "2026-11-28T21:36:21.369604+09:00",
   "headline": "イラン・中東情勢、FRBが市場の主な焦点",
   "executive_summary": "重要度Aのテーマは2件です。市場データは未取得または限定的です。投資判断ではなく、公開情報の整理として確認してください。",
   "sections": [
     {
       "title": "イラン・中東情勢",
-      "summary": "イラン・中東情勢では、US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz / Arab News | Iran stands firm on Hormuz plan after US rejection / Seven conditions , one chokepoint and no talks : Iran shuts door on US negotiations over Hormuz が主な確認材料です。",
+      "summary": "イラン・中東情勢では、Arab News | Iran stands firm on Hormuz plan after US rejection / Seven conditions , one chokepoint and no talks : Iran shuts door on US negotiations over Hormuz / Iran Pressed to Make Nuclear Concessions to Revive Peace Talks With U . S .  が主な確認材料です。",
       "importance": "A",
       "source_item_ids": [
-        "de84e385ca0ed01864fb4192dec98be2073fb817c7257b38d4d7ac5de42fc8dc",
         "fb8cd03572dc2ff2393945dbbe96bbd21036bbcdca2c496a573b7a8ab58741af",
         "bced9d79c281e4f5a45a4eddcf30fbb65a1b48edf887f35624b9c835c30220a6",
         "3c6acacb9660eb4f5b14bd2c79d0332668afa8fc0517678bc9b872bbe9ab2c48",
-        "341bd8d345c5e4127e9384e6657acb9a0e0e9318f1206bcc8bc749225458b978"
+        "341bd8d345c5e4127e9384e6657acb9a0e0e9318f1206bcc8bc749225458b978",
+        "3d7e35c07055852d5e140905c7fbd2090d8a8254885b53b5841d25bc0ce9ab24"
       ]
     },
     {
@@ -51,14 +51,14 @@
     },
     {
       "title": "その他",
-      "summary": "その他では、또 시작된 보복전 … 美 이란 유조선 공격에 이란  요르단 기지 타격 ( 종합 )  / BMde Trumpa cevap gecikmedi ! Pezeşkiyan fotoğrafları gösterdi / Mesud Pezeşkiyan , BM Genel Kurulunda konuştu : İran terörist değil , kendini savunuyor が主な確認材料です。",
+      "summary": "その他では、BMde Trumpa cevap gecikmedi ! Pezeşkiyan fotoğrafları gösterdi / Mesud Pezeşkiyan , BM Genel Kurulunda konuştu : İran terörist değil , kendini savunuyor / Пезешкиан с трибуны ООН заявил , что Иран не откажется от ядерной программы が主な確認材料です。",
       "importance": "C",
       "source_item_ids": [
-        "2d87b0d5dcea24444be849de29fc2f0f2f353591f56cd66a65d3d8699ecbe9fa",
         "6412af1ad7d49671ccd1b1400afbf74b452d34eec9e5debb4ff605c0bbbf6b01",
         "3aa502eb0af223bdd116e64d3735f7dbc7b72408382f6c36916f834564a5e3c5",
         "d97a47d1ca04af3eb2a230c9b837aff26452de5d0ee4876bb290326981bc244b",
-        "4c888a1becc53dfc2b3a5748e4c2b81259aeb23fb2f98b655208d54219edac2c"
+        "4c888a1becc53dfc2b3a5748e4c2b81259aeb23fb2f98b655208d54219edac2c",
+        "ede841b28e7b467c97f0486c39ea0243b065920b62a8696308b55aa2c19b511c"
       ]
     }
   ],
